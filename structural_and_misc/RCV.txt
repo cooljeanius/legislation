@@ -1,1 +1,6 @@
 0. Relative to Ranked Choice Voting
+1. Besides being used for electing candidates to office, the State of New
+   Hampshire shall also use Ranked Choice Voting for internal legislative
+   votes. Legislators may introduce a series of bills as ranked-choice
+   alternatives to one another, and then call for a vote on a ranked-choice
+   ballot containing all alternative bills presented.

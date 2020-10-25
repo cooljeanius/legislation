@@ -1,1 +1,6 @@
 0. Relative to vehicular homicides
+1. NH RSA [TODO: lookup number] is hereby clarified to specify that being stuck
+   in traffic is not detainment, nor is it an instance of false imprisonment,
+   nor is it valid cause for a defense of "self-defense" in any murder case
+   resulting from any driver believing that they have been made a victim of
+   such a false "false imprisonment".

@@ -1,1 +1,15 @@
 0. Relative to tenants' unions
+1. Copy and paste all New Hampshire law governing the organization of labor
+   unions, and then do a find-and-replace to change all instances of "workers"
+   to "tenants", and "bosses" to "landlords".
+2. Edit all existing New Hampshire law to modify all laws governing
+   tenant-landlord interaction to include any tenants' union that that tenant
+   may be a part of in that interaction. For example, "The landlord must
+   notify the tenant," would become, "The landlord must notify the tenant, and
+   any tenants' union that that tenant may be part of," and, "A tenant may
+   refuse to pay rent if the landlord refuses to perform maintenance for that
+   tenant," would become, "A tenant may refuse to pay rent if the landlord
+   refuses to perform maintenance for that tenant, or if the landlord refuses
+   to perform maintenance for any other tenant in that building, and then the
+   tenants' union to which both of those tenants belong vote by majority to
+   collectively go on a rent strike as a union."

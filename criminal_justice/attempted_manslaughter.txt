@@ -1,0 +1,23 @@
+0. Relative to attempted manslaughter
+1. Consider the following table of crimes, with the defendant's intended result
+   along the top, and the defendant's state of mind along the side:
+
+            | kill             | harm             |
+------------+------------------+------------------+
+intentional | attempted murder | 1st deg. assault |
+------------+------------------+------------------+
+impaired    | ???              | 2nd deg. assault |
+------------+------------------+------------------+
+
+Currently, it is this legislator's understanding that there is no New Hampshire
+state law applicable to the box with the question marks. This legislation,
+therefore, proposes to create the new crime of "attempted manslaughter" to
+apply this situation. Just as manslaughter carries a lighter sentence than
+murder does, and 2nd degree assault carries a lighter sentence than 1st degree
+assault does, so too shall attempted manslaughter carry with it a lighter
+sentence than attempted murder does. However, the sentence for attempted
+manslaughter shall still be harsher than that of 2nd degree assault. As far
+as the relationship between the sentence between the sentence carried by
+attempted manslaughter and the sentence between 1st degree assault goes, that
+shall be left to the discretion of the sentencing judge presiding in any such
+cases.

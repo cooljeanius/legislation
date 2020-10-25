@@ -1,3 +1,6 @@
 0. The title of this legislation shall be the "Securing Our Freedom To Write
 And Read Everything (SOFTWARE) Act".
 1. Definitions. 
+ 1a. Free Software
+ 1b. Copyleft
+ 1c. App store
