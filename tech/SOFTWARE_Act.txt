@@ -2,5 +2,12 @@
 And Read Everything (SOFTWARE) Act".
 1. Definitions. 
  1a. Free Software
+For the purposes of New Hampshire law, "Free software" shall mean software that respects users' freedom and community. It shall mean that for software to be considered "Free software" under New Hampshire law, it must be software that guarantees its users have the freedom to run, copy, distribute, study, change, and improve the software. Thus, "free software" is a matter of liberty, not price. To understand the concept, interpreters of this legislation should think of "free" as in "free speech," or as in "Live Free or Die," not as in "free beer". Sometimes it is called "libre software," borrowing the French or Spanish word for "free" as in freedom, to show we do not mean the software is gratis. Given that English does not have this same "libre/gratis" distinction that the Romance languages do, sometimes this legislation shall use alternate terms to clarify which is meant: "Free-and-open-source software (FOSS)", "Freedom-preserving software", and "Software that is free-as-in-freedom" may all be used to mean "Free software" in the sense of "libre software", while the term "Freeware" may be used to mean "Free software in the sense of "gratis software".
  1b. Copyleft
  1c. App store
+2. Legal status of copyleft
+3. Relative to noncompete clauses affecting contribution to Free Software projects
+4. Relative to the state government usage of external software
+5. Relative to the state government's writing of its own software
+6. App stores that prohibit copyleft software licenses
+7. Legal assistance for developers of Free Software
