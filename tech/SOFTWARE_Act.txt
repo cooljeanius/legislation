@@ -2,18 +2,52 @@
 And Read Everything (SOFTWARE) Act".
 1. Definitions. 
  1a. Free Software
-For the purposes of New Hampshire law, "Free software" shall mean software that respects users' freedom and community. It shall mean that for software to be considered "Free software" under New Hampshire law, it must be software that guarantees its users have the freedom to run, copy, distribute, study, change, and improve the software. Thus, "free software" is a matter of liberty, not price. To understand the concept, interpreters of this legislation should think of "free" as in "free speech," or as in "Live Free or Die," not as in "free beer". Sometimes it is called "libre software," borrowing the French or Spanish word for "free" as in freedom, to show we do not mean the software is gratis. Given that English does not have this same "libre/gratis" distinction that the Romance languages do, sometimes this legislation shall use alternate terms to clarify which is meant: "Free-and-open-source software (FOSS)", "Freedom-preserving software", and "Software that is free-as-in-freedom" may all be used to mean "Free software" in the sense of "libre software", while the term "Freeware" may be used to mean "Free software in the sense of "gratis software".
+For the purposes of New Hampshire law, "Free software" shall mean software that 
+respects users' freedom and community. It shall mean that for software to be 
+considered "Free software" under New Hampshire law, it must be software that 
+guarantees its users have the freedom to run, copy, distribute, study, change, and 
+improve the software. Thus, "free software" is a matter of liberty, not price. To 
+understand the concept, interpreters of this legislation should think of "free" as 
+in "free speech," or as in "Live Free or Die," not as in "free beer". Sometimes it 
+is called "libre software," borrowing the French or Spanish word for "free" as in 
+freedom, to show we do not mean the software is gratis. Given that English does not 
+have this same "libre/gratis" distinction that the Romance languages do, sometimes 
+this legislation shall use alternate terms to clarify which is meant: 
+"Free-and-open-source software (FOSS)", "Freedom-preserving software", and 
+"Software that is free-as-in-freedom" may all be used to mean "Free software" in 
+the sense of "libre software", while the term "Freeware" may be used to mean 
+"Free software" in the sense of "gratis software".
  1b. Copyleft
+For the purposes of New Hampshire law, "copyleft" shall be defined as...
  1c. App store
+For the purposes of New Hampshire law, an "app store" shall be defined as...
  1d. Patch (in the context of software development)
  1e. Upstream/downstream (in the context of software development)
  1f. Fork (in the context of software development)
 2. Legal status of copyleft
- 2a. In civil suits
- 2b. Between different versions of the same project
+ 2a. In general
+The State of New Hampshire officially recognizes copyleft as a valid form of 
+copyright.
+ 2b. In civil suits
+ 2c. Between different versions of the same project
 3. Relative to noncompete clauses affecting contribution to Free Software projects
 4. Relative to the state government usage of external software
+ 4a. Study committee
 5. Relative to the state government's writing of its own software
-6. App stores that prohibit copyleft software licenses
+ 5a. Public domain vs. copyleft
+6. Relative to app stores that prohibit copyleft software licenses
 7. Legal assistance for developers of Free Software
+Any indigent developer of free-and-open-source software who would qualify for 
+defense by a public defender in a criminal case may also qualify for legal 
+assistance from the public defenders' office in civil disputes arising from the 
+copyright of software they develop under a copyleft license.
 8. Relative to evidence in criminal law created by proprietary software
+All defendants in cases of criminal law in the State of New Hampshire shall have 
+the right, either on their own or thru their legal representation, to review the 
+source code of any proprietary software used to generate evidence being used 
+against them in court, in order to guarantee the reliability of said evidence.
+9. Software the government requires civilians to use
+No person in the State of New Hampshire shall be required to use proprietary 
+software for any interaction with the government that is required by law, including
+but not limited to: the filing or payment of taxes, remote appearance for court 
+proceedings, [...]
