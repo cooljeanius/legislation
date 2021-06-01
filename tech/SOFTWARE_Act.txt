@@ -27,8 +27,8 @@ For the purposes of New Hampshire law, an "app store" shall be defined as... (TO
  1f. Fork (in the context of software development)
 2. Legal status of copyleft
  2a. In general
-The State of New Hampshire officially recognizes copyleft as a valid form of 
-copyright.
+The State of New Hampshire officially recognizes copyleft as a valid, beneficent,
+and commendable form of copyright.
  2b. In civil suits
 ... (TODO)
  2c. Between different versions of the same project
