@@ -18,9 +18,9 @@ this legislation shall use alternate terms to clarify which is meant:
 the sense of "libre software", while the term "Freeware" may be used to mean 
 "Free software" in the sense of "gratis software".
  1b. Copyleft
-For the purposes of New Hampshire law, "copyleft" shall be defined as...
+For the purposes of New Hampshire law, "copyleft" shall be defined as... (TODO)
  1c. App store
-For the purposes of New Hampshire law, an "app store" shall be defined as...
+For the purposes of New Hampshire law, an "app store" shall be defined as... (TODO)
  1d. Patch (in the context of software development)
  1e. Upstream/downstream (in the context of software development)
  1f. Fork (in the context of software development)
@@ -29,13 +29,17 @@ For the purposes of New Hampshire law, an "app store" shall be defined as...
 The State of New Hampshire officially recognizes copyleft as a valid form of 
 copyright.
  2b. In civil suits
+... (TODO)
  2c. Between different versions of the same project
+... (TODO)
 3. Relative to noncompete clauses affecting contribution to Free Software projects
+(make nonenforceable in NH)
 4. Relative to the state government usage of external software
  4a. Study committee
 5. Relative to the state government's writing of its own software
  5a. Public domain vs. copyleft
 6. Relative to app stores that prohibit copyleft software licenses
+(do something about them... ban? tax? make liable to civil suits?)
 7. Legal assistance for developers of Free Software
 Any indigent developer of free-and-open-source software who would qualify for 
 defense by a public defender in a criminal case may also qualify for legal 

@@ -3,3 +3,4 @@
    is a threat to its First-In-The-Nation Primary status, and as a result, we
    pledge to ensure that the demographics of our state become [percentage%]
    non-white by [year; somewhere in the range of 2023 to 2027].
+(TODO: update with Census data)
