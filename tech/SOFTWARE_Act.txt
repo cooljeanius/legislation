@@ -69,4 +69,5 @@ No person in the State of New Hampshire shall be required to use proprietary
 software for any interaction with the government that is required by law, including
 but not limited to: the filing or payment of taxes, remote appearance for court 
 proceedings, the taking of standardized tests or the completion of coursework by
-school students, [...]
+school students, applying for or receiving unemployment benefits (or other similar
+benefits), [...]
