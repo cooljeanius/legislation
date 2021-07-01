@@ -33,7 +33,8 @@ and commendable form of copyright.
 ... (TODO)
  2c. Between different versions of the same project
 ... (TODO)
-3. Relative to noncompete clauses affecting contribution to Free Software projects
+3. Relative to noncompete clauses adversely affecting contribution to Free Software
+projects
 (make nonenforceable in NH)
 4. Relative to the state government usage of external software
  4a. Study committee
