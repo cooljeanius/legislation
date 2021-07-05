@@ -30,9 +30,15 @@ For the purposes of New Hampshire law, an "app store" shall be defined as... (TO
 The State of New Hampshire officially recognizes copyleft as a valid, beneficent,
 and commendable form of copyright.
  2b. In civil suits
-... (TODO)
+Any copyright holder for a copyleft free software project has a right to defend
+civil claims against their project in New Hampshire courts. Free software projects
+using copyleft shall enjoy presumptions in their favor in New Hampshire courts,
+given all other aspects of their cases being equal.
  2c. Between different versions of the same project
-... (TODO)
+In cases where there are multiple versions of the same copylefted free software
+project, applying a patch between upstream and downstream instances of that
+project, that hold the same copyleft license, and differ only in copyright holder,
+shall always be legal in the state of New Hampshire.
 3. Relative to noncompete clauses adversely affecting contribution to Free Software
 projects
 (make nonenforceable in NH)
