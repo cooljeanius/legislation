@@ -38,7 +38,8 @@ given all other aspects of their cases being equal.
 In cases where there are multiple versions of the same copylefted free software
 project, applying a patch between upstream and downstream instances of that
 project, that hold the same copyleft license, and differ only in copyright holder,
-shall always be legal in the state of New Hampshire.
+or, in cases where copyright holder is the same, differ only in author, shall
+always be legal in the state of New Hampshire.
 3. Relative to noncompete clauses adversely affecting contribution to Free Software
 projects
 (make nonenforceable in NH)
