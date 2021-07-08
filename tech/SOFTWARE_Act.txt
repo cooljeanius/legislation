@@ -25,6 +25,8 @@ For the purposes of New Hampshire law, an "app store" shall be defined as... (TO
  1d. Patch (in the context of software development)
  1e. Upstream/downstream (in the context of software development)
  1f. Fork (in the context of software development)
+ 1g. Noncompete clause
+(may already be defined somewhere in NH law; would have to check)
 2. Legal status of copyleft
  2a. In general
 The State of New Hampshire officially recognizes copyleft as a valid, beneficent,
@@ -42,7 +44,9 @@ or, in cases where copyright holder is the same, differ only in author, shall
 always be legal in the state of New Hampshire.
 3. Relative to noncompete clauses adversely affecting contribution to Free Software
 projects
-(make nonenforceable in NH)
+No noncompete clause by which an employer prevents an employee from contributing
+to a Free Software project they might wish to contribute to, shall be enforced in
+the State of New Hampshire.
 4. Relative to the state government usage of external software
  4a. Study committee
 Whereas the state government currently uses much proprietary software in its
@@ -60,7 +64,8 @@ license instead, at the determination of the State Department of Information
 Technology. In such cases, the copyright holder of such software shall be
 considered to be the entire State of New Hampshire, claims against which are to
 be defended by the State Department of Justice.
-6. Relative to app stores that prohibit copyleft software licenses
+6. Relative to app stores with terms of service that prohibit distribution of
+software with copyleft software licenses
 (do something about them... ban? tax? make liable to civil suits?)
 7. Legal assistance for developers of Free Software
 Any indigent developer of free-and-open-source software who would qualify for 
