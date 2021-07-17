@@ -21,7 +21,9 @@ be used to mean "Free software" in the sense of "libre software", while the term
  1b. Copyleft
 For the purposes of New Hampshire law, "copyleft" shall be defined as... (TODO)
  1c. App store
-For the purposes of New Hampshire law, an "app store" shall be defined as... (TODO)
+For the purposes of New Hampshire law, an "app store" shall be defined as any
+online software distribution platform in which one company allows other developers
+to sell software to end-users for download.
  1d. Patch (in the context of software development)
  1e. Upstream/downstream (in the context of software development)
  1f. Fork (in the context of software development)
