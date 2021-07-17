@@ -86,3 +86,9 @@ but not limited to: the filing or payment of taxes, remote appearance for court
 proceedings, the taking of standardized tests or the completion of coursework by
 school students, applying for or receiving unemployment benefits (or other similar
 benefits), [...]
+Furthermore, no person in the State of New Hampshire shall be required to allow
+the execution of proprietary javascript in their browser when visiting websites
+administered by the State of New Hampshire. The State Department of Information
+Technology shall verify that this is the case via the use of browser extensions
+of their choice that are designed to detect and block the execution of proprietary
+javascript in their browsers.
