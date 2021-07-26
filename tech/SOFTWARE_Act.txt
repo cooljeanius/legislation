@@ -19,14 +19,34 @@ terms to clarify which is meant: "Free-and-open-source software (FOSS)",
 be used to mean "Free software" in the sense of "libre software", while the term
 "Freeware" may be used to mean "Free software" in the sense of "gratis software".
  1b. Copyleft
-For the purposes of New Hampshire law, "copyleft" shall be defined as... (TODO)
+For the purposes of New Hampshire law, "copyleft" shall be defined as the practice
+of using copyright law to ensure that any free intellectual property, in particular
+free software, remains free even after redistribution, modification, and use. A
+"copyleft software license" is a license designed specifically to facilitate the
+use of copyright in this way. A "copyleft free software project" is a collaborative
+project with the aim of developing software with such a license. The term
+"copyleft" may also be used as a verb, meaning to release a product under such a
+license.
  1c. App store
 For the purposes of New Hampshire law, an "app store" shall be defined as any
 online software distribution platform in which one company allows other developers
 to sell software to end-users for download.
  1d. Patch (in the context of software development)
+For the purposes of this legislation, the term "patch", as used in the context of
+software development, shall refer to a set of changes to a computer program or its
+supporting data that are intended to update, fix, or improve it.
  1e. Upstream/downstream (in the context of software development)
+For the purposes of this legislation, the term "upstream", as
+used in the context of software development, shall refer to the original authors
+or maintainers of a software project, while the term "downstream", used in the
+same context, shall refer to redistributors or repackagers of a software project
+away from its upstream maintainers.
  1f. Fork (in the context of software development)
+For the purposes of this legislation, the term "fork", as used in the context of
+software development, shall be defined as a copy of a software project in which
+a subset of its developers use its source code to begin independent development
+of the project in a different direction, resulting in a distinct and separate
+piece of software.
  1g. Noncompete clause
 (may already be defined somewhere in NH law; would have to check)
 2. Legal status of copyleft
