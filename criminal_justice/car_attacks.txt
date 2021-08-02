@@ -4,3 +4,6 @@
    nor is it valid cause for a defense of "self-defense" in any murder case
    resulting from any driver believing that they have been made a victim of
    such a false "false imprisonment".
+
+(see edits to existing NH law in this directory in files 627-mrg.htm and
+633-mrg.htm and check on GitHub for how their diffs look)
