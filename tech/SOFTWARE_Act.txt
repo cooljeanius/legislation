@@ -61,9 +61,9 @@ given all other aspects of their cases being equal.
  2c. Between different versions of the same project
 In cases where there are multiple versions of the same copylefted free software
 project, applying a patch between upstream and downstream instances of that
-project, that hold the same copyleft license, and differ only in copyright holder,
-or, in cases where copyright holder is the same, differ only in author, shall
-always be legal in the state of New Hampshire.
+project, that hold the same free copyleft license, and differ only in copyright
+holder, or, in cases where copyright holder is the same, differ only in author,
+shall always be legal in the state of New Hampshire.
 3. Relative to noncompete clauses adversely affecting contribution to Free Software
 projects
 No noncompete clause by which an employer prevents an employee from contributing
@@ -76,16 +76,20 @@ day-to-day business, this legislation shall provide for the creation of a study
 committee to study the possible costs and feasibility of replacing all proprietary
 software used by state government with free software, to be done by a date of the
 committee's choosing. [TODO: specify composition of committee]
+ 4b. Funding
+This legislation authorizes the spending of money to transition from proprietary
+software to free software at the recommendation of the study committee, the
+precise amounts of which are to be appropriated in future state budgets.
 5. Relative to the state government's writing of its own software
  5a. Public domain vs. copyleft
 Currently, it is this understanding of this legislator that any software funded
 by state tax dollars are NOT subject to copyright, and are thus released into
 the public domain. This legislation shall modify state law to clarify that any
-software released by the State of New Hampshire may be released under a copyleft
-license instead, at the determination of the State Department of Information
-Technology. In such cases, the copyright holder of such software shall be
-considered to be the entire State of New Hampshire, claims against which are to
-be defended by the State Department of Justice.
+software released by the State of New Hampshire may be released under a free
+copyleft license instead, at the determination of the State Department of
+Information Technology. In such cases, the copyright holder of such software
+shall be considered to be the entire State of New Hampshire, claims against
+which are to be defended by the State Department of Justice.
 6. Relative to app stores with terms of service that prohibit distribution of
 software with copyleft software licenses
 (do something about them... ban? tax? make liable to civil suits?)
@@ -112,3 +116,7 @@ administered by the State of New Hampshire. The State Department of Information
 Technology shall verify that this is the case via the use of browser extensions
 of their choice that are designed to detect and block the execution of proprietary
 javascript in their browsers.
+10. Data portability
+The State of New Hampshire recognizes a fundamental right to data portability held
+by computer users, and shall enact policies to ensure that the right to data
+portability is protected.
