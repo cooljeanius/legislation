@@ -119,4 +119,5 @@ javascript in their browsers.
 10. Data portability
 The State of New Hampshire recognizes a fundamental right to data portability held
 by computer users, and shall enact policies to ensure that the right to data
-portability is protected.
+portability is protected. The relevant departments of the executive branch shall
+implement this provision of this legislation at their own discretion.
