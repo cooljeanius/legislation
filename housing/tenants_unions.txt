@@ -1,8 +1,12 @@
-0. Relative to tenants' unions
-1. Copy and paste all New Hampshire law governing the organization of labor
+0. Relative to tenants' unions [TODO: come up with catchy acronym]
+1. It is this legislator's understanding that under current NH law, any tenants'
+   unions have to be organized as normal non-profits, without any special
+   protections or anything. This legislation seeks to change that by recognizing
+   tenants' unions with a special status, and granting them special protections.
+2. Copy and paste all New Hampshire law governing the organization of labor
    unions, and then do a find-and-replace to change all instances of "workers"
    to "tenants", and "bosses" to "landlords".
-2. Edit all existing New Hampshire law to modify all laws governing
+3. Edit all existing New Hampshire law to modify all laws governing
    tenant-landlord interaction to include any tenants' union that that tenant
    may be a part of in that interaction. For example, "The landlord must
    notify the tenant," would become, "The landlord must notify the tenant, and
