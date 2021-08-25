@@ -90,6 +90,11 @@ copyleft license instead, at the determination of the State Department of
 Information Technology. In such cases, the copyright holder of such software
 shall be considered to be the entire State of New Hampshire, claims against
 which are to be defended by the State Department of Justice.
+ 5b. Alternative for case where previous clause is wrong
+If the initial understanding underlying the previous clause turns out to be false,
+and the State of New Hampshire is actually already capable of copyrighting software
+that it writes, all such software shall be released under a free software license,
+preferrably a copyleft one.
 6. Relative to app stores with terms of service that prohibit distribution of
 software with copyleft software licenses
 (do something about them... ban? tax? make liable to civil suits?)
