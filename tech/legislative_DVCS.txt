@@ -1,0 +1,13 @@
+0. Relative to how legislation is filed and tracked in the NH legislature
+1. Definitions
+ 1a. Version Control System (VCS) [TODO]
+ 1b. Distributed Version Control System (DVCS) [TODO]
+ 1c. Diffing [TODO]
+ 1d. Grepping [TODO]
+2. Usage of VCS
+The State of New Hampshire's legislature shall keep all legislative proposals filed
+with it stored in a version control system, preferably a distributed one with a web
+interface similar to that found on popular code-hosting websites such as GitHub.
+The legislation shall be stored in this VCS in an open text-based format that
+allows for easy diffing, grepping, and manipulation by other similar software tools
+designed to operate on text-based formats.
