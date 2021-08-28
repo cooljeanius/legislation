@@ -10,4 +10,5 @@ with it stored in a version control system, preferably a distributed one with a 
 interface similar to that found on popular code-hosting websites such as GitHub.
 The legislation shall be stored in this VCS in an open text-based format that
 allows for easy diffing, grepping, and manipulation by other similar software tools
-designed to operate on text-based formats.
+designed to operate on text-based formats. Amendments to legislation shall be
+handled by tools provided by the VCS.
