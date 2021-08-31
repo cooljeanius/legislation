@@ -1,6 +1,7 @@
 0. Relative to state demographics
 1. The State of New Hampshire acknowledges that its relative lack of diversity
-   is a threat to its First-In-The-Nation Primary status, and as a result, we
-   pledge to ensure that the demographics of our state become [percentage%]
-   non-white by [year; somewhere in the range of 2023 to 2027].
+   is a threat to its First-In-The-Nation Primary status, and as a result, shall
+   create a study committee that shall study how to increase our state's diversity
+   by the time of our next presidential primary, including, but not limited to,
+   possibly choosing a percentage to use for a diversity target.
 (TODO: update with Census data)

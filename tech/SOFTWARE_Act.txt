@@ -49,15 +49,19 @@ of the project in a different direction, resulting in a distinct and separate
 piece of software.
  1g. Noncompete clause
 (may already be defined somewhere in NH law; would have to check)
+ 1h. Proprietary software
+For the purposes of New Hampshire law, "proprietary software" shall be understood
+to mean the opposite of "free software" as defined in 1a.
 2. Legal status of copyleft
  2a. In general
 The State of New Hampshire officially recognizes copyleft as a valid, beneficent,
 and commendable form of copyright.
  2b. In civil suits
 Any copyright holder for a copyleft free software project has a right to defend
-civil claims against their project in New Hampshire courts. Free software projects
-using copyleft shall enjoy presumptions in their favor in New Hampshire courts,
-given all other aspects of their cases being equal.
+civil claims against their project in New Hampshire courts. Free software projects,
+and especially those that use copyleft software licenses, shall enjoy presumptions
+in their favor in New Hampshire courts, given all other aspects of their cases
+being equal.
  2c. Between different versions of the same project
 In cases where there are multiple versions of the same copylefted free software
 project, applying a patch between upstream and downstream instances of that
@@ -75,7 +79,9 @@ Whereas the state government currently uses much proprietary software in its
 day-to-day business, this legislation shall provide for the creation of a study
 committee to study the possible costs and feasibility of replacing all proprietary
 software used by state government with free software, to be done by a date of the
-committee's choosing. [TODO: specify composition of committee]
+committee's choosing. [TODO: specify composition of committee... besides
+legislators, also include members of relevant executive departments, including the
+Department of IT, and any IT officers of other departments]
  4b. Funding
 This legislation authorizes the spending of money to transition from proprietary
 software to free software at the recommendation of the study committee, the
@@ -97,24 +103,36 @@ that it writes, all such software shall be released under a free software licens
 preferrably a copyleft one.
 6. Relative to app stores with terms of service that prohibit distribution of
 software with copyleft software licenses
-(do something about them... ban? tax? make liable to civil suits?)
+Any app store that requires developers to agree to terms of service that prohibit
+distribution of software with free software licenses (and, more specifically,
+copyleft ones) shall be liable to civil action from any developers of free
+software who are prevented from distributing their software in New Hampshire by
+these terms of service. Such cases may be tried in New Hampshire courts, and the
+remedy for any findings in favor of the free software developers bringing an action
+under the terms of this clause shall be to require the software in question to be
+allowed to be distributed on the app store in question.
 7. Legal assistance for developers of Free Software
 Any indigent developer of free-and-open-source software who would qualify for 
 defense by a public defender in a criminal case may also qualify for legal 
 assistance from the public defenders' office in civil disputes arising from the 
-copyright of software they develop under a copyleft license.
+copyright of software they develop under a copyleft license. In years in which the
+state has a surplus, the public defenders' office may seek reimbursement from the
+state from the surplus funds for any additional costs incurred by the provision of
+legal assistance under the terms of this clause.
 8. Relative to evidence in criminal law created by proprietary software
 All defendants in cases of criminal law in the State of New Hampshire shall have 
 the right, either on their own or thru their legal representation, to review the 
 source code of any proprietary software used to generate evidence being used 
 against them in court, in order to guarantee the reliability of said evidence.
 9. Software the government requires civilians to use
+ 9a. Proprietary software in general
 No person in the State of New Hampshire shall be required to use proprietary 
 software for any interaction with the government that is required by law, including
 but not limited to: the filing or payment of taxes, remote appearance for court 
 proceedings, the taking of standardized tests or the completion of coursework by
 school students, applying for or receiving unemployment benefits (or other similar
-benefits), [...]
+benefits), etcetera etcetera.
+ 9b. Proprietary javascript on state websites
 Furthermore, no person in the State of New Hampshire shall be required to allow
 the execution of proprietary javascript in their browser when visiting websites
 administered by the State of New Hampshire. The State Department of Information
@@ -126,3 +144,9 @@ The State of New Hampshire recognizes a fundamental right to data portability he
 by computer users, and shall enact policies to ensure that the right to data
 portability is protected. The relevant departments of the executive branch shall
 implement this provision of this legislation at their own discretion.
+11. Law enforcement [non]cooperation
+No member of law enforcement in the State of New Hampshire, or any of its
+constituent sub-jurisdictions (county or municipal), shall assist federal law
+enforcement in any investigation or prosecution of copyright claims or other
+claims of intellectual property crimes brought by makers of proprietary software
+against makers of competing free-and-open-software projects.
