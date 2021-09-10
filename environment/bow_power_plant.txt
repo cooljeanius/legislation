@@ -1,4 +1,8 @@
 0. Relative to the state electrical power supply
-1. The Site Evaluation Committee of the state's Public Utilities Commission
+1. The [Site Evaluation Committee of the] state's Public Utilities Commission
    shall take climate change impact into account when setting prices for
    power plants to be allowed to run.
+
+TODO: percentages... check CA, WA...? Also is SEC subordinate to PUC, or something
+separate and irrelevant?
+Would probably go before ST&E (Science, Technology, & Energy)
