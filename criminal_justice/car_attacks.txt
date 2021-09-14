@@ -3,7 +3,8 @@
    in traffic is not detainment, nor is it an instance of false imprisonment,
    nor is it valid cause for a defense of "self-defense" in any murder case
    resulting from any driver believing that they have been made a victim of
-   such a false "false imprisonment".
+   such a false "false imprisonment". Note that this is already current law, and
+   so this legislation merely clarifies existing statute.
 
 (see edits to existing NH law in this directory in files 627-mrg.htm and
 633-mrg.htm and check on GitHub for how their diffs look)
