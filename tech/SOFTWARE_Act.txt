@@ -88,7 +88,7 @@ software to free software at the recommendation of the study committee, the
 precise amounts of which are to be appropriated in future state budgets.
 5. Relative to the state government's writing of its own software
  5a. Public domain vs. copyleft
-Currently, it is this understanding of this legislator that any software funded
+Currently, it is the understanding of this legislator that any software funded
 by state tax dollars are NOT subject to copyright, and are thus released into
 the public domain. This legislation shall modify state law to clarify that any
 software released by the State of New Hampshire may be released under a free
@@ -150,3 +150,7 @@ constituent sub-jurisdictions (county or municipal), shall assist federal law
 enforcement in any investigation or prosecution of copyright claims or other
 claims of intellectual property crimes brought by makers of proprietary software
 against makers of competing free-and-open-software projects.
+
+Sources:
+https://copyleft.org/
+https://www.theregister.com/2021/02/04/dna_testing_software/
