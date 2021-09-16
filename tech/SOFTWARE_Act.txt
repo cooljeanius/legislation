@@ -79,9 +79,11 @@ Whereas the state government currently uses much proprietary software in its
 day-to-day business, this legislation shall provide for the creation of a study
 committee to study the possible costs and feasibility of replacing all proprietary
 software used by state government with free software, to be done by a date of the
-committee's choosing. [TODO: specify composition of committee... besides
-legislators, also include members of relevant executive departments, including the
-Department of IT, and any IT officers of other departments]
+committee's choosing. The committee shall also study all relevant compliance and
+security concerns associated with making such a transition. [TODO: specify
+composition of committee... besides legislators, also include members of relevant
+executive departments, including the Department of IT, and any IT officers of other
+departments]
  4b. Funding
 This legislation authorizes the spending of money to transition from proprietary
 software to free software at the recommendation of the study committee, the
@@ -91,16 +93,19 @@ precise amounts of which are to be appropriated in future state budgets.
 Currently, it is the understanding of this legislator that any software funded
 by state tax dollars are NOT subject to copyright, and are thus released into
 the public domain. This legislation shall modify state law to clarify that any
-software released by the State of New Hampshire may be released under a free
-copyleft license instead, at the determination of the State Department of
-Information Technology. In such cases, the copyright holder of such software
-shall be considered to be the entire State of New Hampshire, claims against
-which are to be defended by the State Department of Justice.
+software released by the State of New Hampshire, that would currently be released
+into the public domain, may be released under a free copyleft license instead, at
+the determination of the State Department of Information Technology. In such cases,
+the copyright holder of such software shall be considered to be the entire State of
+New Hampshire, claims against which are to be defended by the State Department of
+Justice.
  5b. Alternative for case where previous clause is wrong
 If the initial understanding underlying the previous clause turns out to be false,
 and the State of New Hampshire is actually already capable of copyrighting software
 that it writes, all such software shall be released under a free software license,
-preferrably a copyleft one.
+preferrably a copyleft one. This clause shall apply only to the source code of the
+software itself, and shall not apply to any data being stored with that software
+that is required to be kept private.
 6. Relative to app stores with terms of service that prohibit distribution of
 software with copyleft software licenses
 Any app store that requires developers to agree to terms of service that prohibit
@@ -154,3 +159,5 @@ against makers of competing free-and-open-software projects.
 Sources:
 https://copyleft.org/
 https://www.theregister.com/2021/02/04/dna_testing_software/
+
+(This became LSR 2022-2270)

@@ -8,3 +8,5 @@ TODO: percentages... check CA, WA...? If I can't find any specific percentages,
 I'll just leave it to the PUC's discretion... Also is SEC subordinate to PUC, or
 something separate and irrelevant?
 Would probably go before ST&E (Science, Technology, & Energy)
+
+(This became LSR 2022-2264)
