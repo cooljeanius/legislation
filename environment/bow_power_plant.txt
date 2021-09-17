@@ -1,12 +1,16 @@
 0. Relative to the state electrical power supply
-1. The [Site Evaluation Committee of the] state's Public Utilities Commission
-   shall take climate change impact into account when setting prices for
-   power plants to be allowed to run, such that power plants that contribute more
-   greatly to climate change shall be required to pay higher rates.
+1. The state's Public Utilities Commission shall take climate change impact into
+   account when setting prices for power plants to be allowed to run, such that
+   power plants that contribute more greatly to climate change, based on carbon
+   emissions or by pollution control device measurements, shall be required to
+   pay higher rates. The climate change impact payments shall be made by the
+   operators of the power plants in question, or the utilities, to the state, to
+   fund the PUC's Sustainable Energy Division, or to the Systems Benefit Charge,
+   or towards RGGI funds. Payments made to the latter two shall be put towards
+   public housing retrofitting for energy efficiency and weatherization needs.
 
-TODO: percentages... check CA, WA...? If I can't find any specific percentages,
-I'll just leave it to the PUC's discretion... Also is SEC subordinate to PUC, or
-something separate and irrelevant?
+TODO: percentages... check CA, WA, IL...? If I can't find any specific percentages,
+I'll just leave it to the PUC's discretion...
 Would probably go before ST&E (Science, Technology, & Energy)
 
 (This became LSR 2022-2264)
