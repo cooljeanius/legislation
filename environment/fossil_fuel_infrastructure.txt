@@ -7,5 +7,7 @@ This adds exceptions to RSA Title LXII, Chapter 634, Section 634:2:
 https://www.gencourt.state.nh.us/rsa/html/lxii/634/634-2.htm
 ...and RSA Title LXII, Chapter 635, Section 635:2:
 http://www.gencourt.state.nh.us/rsa/html/lxii/635/635-2.htm
+I have also downloaded these files to this directory and edited them; see
+634_2.htm.diff and 635_2.htm.diff in this directory for what changed.
 Ref:
 https://www.concordmonitor.com/VariedPoliceResponseProtests-42889832
