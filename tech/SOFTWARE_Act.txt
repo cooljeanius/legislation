@@ -175,8 +175,8 @@ of machinery, computing hardware, or robots that require proprietary software in
 order to run. All state purchases of hardware capable of running software must be
 of hardware that can run free-and-open-source software instead. To verify the
 freedom of any software to be run on new state hardware purchases, the source code
-of said software shall be subject to review by the State Department of Information
-Technology, who shall also assess said source code for any potential harm that that
+of said software may be subject to review by the State Department of Information
+Technology, who may also assess said source code for any potential harm that that
 software may cause when run. Any purchase of hardware running software that is
 found to be altogether harmful in such an assessment shall be rejected. In order to
 ease regulatory burden, identical purchases need not be reviewed separately;
