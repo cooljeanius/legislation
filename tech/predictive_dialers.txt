@@ -1,0 +1,9 @@
+0. Relative to the use of predictive dialers
+1. Predictive dialers used in the State of New Hampshire must have an abandon rate
+   of 1% less than the FCC requires (i.e. 2% instead of 3%; to be auto-updated if
+   the FCC changes their percentage)
+2. Phone calls are to be considered "abandoned" by predictive dialers in the State
+   of New Hampshire 1 second sooner than FCC regulations require (i.e. in 1 second
+   instead of 2; to be auto-updated if the FCC changes their number)
+3. Predictive dialers may not be used to call numbers on the national Do Not Call
+   Registry in the State of New Hampshire.
