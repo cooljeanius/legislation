@@ -168,7 +168,8 @@ constituent sub-jurisdictions (county or municipal), shall assist federal law
 enforcement in any investigation or prosecution of copyright claims or other
 claims of intellectual property crimes brought by makers of proprietary software
 against makers of competing free-and-open-software projects.
-12. Hardware purchases
+12. State hardware purchases
+ 12a. Inspection of software run by hardware
 No governmental entity under the jurisdiction of the State of New Hampshire 
 (including state, county, municipal, and local bodies) shall make any new purchases
 of machinery, computing hardware, or robots that require proprietary software in
@@ -185,6 +186,12 @@ cases where identical software is encountered, so that each review only has to b
 done once. The implementation of this provision may be postponed until after the
 study committee described in section 4a of this legislation completes its study
 and submits its recommendations.
+ 12b. Funding
+This legislation authorizes the spending of money to set up and run the inspection
+process of software to be run on any new state hardware purchases, the exact amount
+for which is to be appropriated in the budgets that the legislature routinely
+passes. In years in which an insufficient amount of money is appropriated for this
+purpose, any inspections costing more than what is available may be skipped.
 
 Sources:
 https://copyleft.org/
