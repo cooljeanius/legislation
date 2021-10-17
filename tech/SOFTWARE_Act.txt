@@ -49,7 +49,9 @@ of the project in a different direction, resulting in a distinct and separate
 piece of software.
  1g. Noncompete clause
 (may already be defined somewhere in NH law; would have to check)
- 1h. Proprietary software
+ 1h. Non-disclosure agreement
+(may also already be defined somewhere in NH law; would have to check)
+ 1i. Proprietary software
 For the purposes of New Hampshire law, "proprietary software" shall be understood
 to mean the opposite of "free software" as defined in 1a.
 2. Legal status of copyleft
@@ -192,6 +194,13 @@ process of software to be run on any new state hardware purchases, the exact amo
 for which is to be appropriated in the budgets that the legislature routinely
 passes. In years in which an insufficient amount of money is appropriated for this
 purpose, any inspections costing more than what is available may be skipped.
+13. Non-disclosure agreements
+No employer in the State of New Hampshire shall use non-disclosure agreements to
+prevent employees from sharing the source code of free-and-open-source software
+that they would otherwise normally be able to share due to the software's license.
+In simpler terms, in cases of conflicts between a non-disclosure agreement and a
+free-and-open-source software license, the free-and-open-source software license
+wins.
 
 Sources:
 https://copyleft.org/
