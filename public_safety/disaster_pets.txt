@@ -1,9 +1,13 @@
 0. Relative to the safety of pets during emergency declarations
 1. Whenever the governor issues an emergency declaration that includes an
-evacuation order, any hotels in areas to which people are to be evacuated, which
-are being required to shelter evacuated persons, shall also be required to shelter
-any pets belonging to those evacuated persons.
+   evacuation order, any hotels in areas to which people are to be evacuated, which
+   are being required to shelter evacuated persons, shall also be required to
+   shelter any pets belonging to those evacuated persons.
+2. The provisions of this legislation shall be carried out in compliance with the
+   federal Pets Evacuation and Transportation Standards Act.
 
-Source: https://twitter.com/meganromer/status/1431380606240366592?s=21
+Sources:
+https://twitter.com/meganromer/status/1431380606240366592?s=21
+https://en.wikipedia.org/wiki/Pets_Evacuation_and_Transportation_Standards_Act
 
 (This became LSR 2022-2269)
