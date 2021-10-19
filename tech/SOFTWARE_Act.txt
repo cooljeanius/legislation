@@ -18,6 +18,10 @@ terms to clarify which is meant: "Free-and-open-source software (FOSS)",
 "Freedom-preserving software", and "Software that is free-as-in-freedom" may all
 be used to mean "Free software" in the sense of "libre software", while the term
 "Freeware" may be used to mean "Free software" in the sense of "gratis software".
+Note that when the term "Free-and-open-source software" is used to clarify that the
+"libre" meaning of "free software" is meant, the term "free" must be preserved in
+the wording, as it is possible for there to be non-free open-source software,
+and that is not what is meant here.
  1b. Copyleft
 For the purposes of New Hampshire law, "copyleft" shall be defined as the practice
 of using copyright law to ensure that any free intellectual property, in particular
