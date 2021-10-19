@@ -90,7 +90,7 @@ committee's choosing. The committee shall also study all relevant compliance and
 security concerns associated with making such a transition. [TODO: specify
 composition of committee... besides legislators, also include members of relevant
 executive departments, including the Department of IT, and any IT officers of other
-departments]
+departments... see HB 558 for inspiration]
  4b. Funding
 This legislation authorizes the spending of money to transition from proprietary
 software to free software at the recommendation of the study committee, the
@@ -209,5 +209,6 @@ wins.
 Sources:
 https://copyleft.org/
 https://www.theregister.com/2021/02/04/dna_testing_software/
+https://legiscan.com/NH/bill/HB558/2021
 
 (This became LSR 2022-2270)
