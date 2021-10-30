@@ -51,10 +51,19 @@ software development, shall be defined as a copy of a software project in which
 a subset of its developers use its source code to begin independent development
 of the project in a different direction, resulting in a distinct and separate
 piece of software.
- 1g. Noncompete clause
-(may already be defined somewhere in NH law; would have to check)
+ 1g. Non-compete clause
+For the purposes of this legislation, a "non-compete clause" shall refer to a
+clause of a contract in which an employer requires an employee to agree not to
+provide assistance to the employer's competitors. Such clauses may also be referred
+to as "restrictive covenants". This definition of "non-compete clause" shall be
+held in accordance to the references to non-compete clauses in RSA 275:70 and RSA
+329:31-a.
  1h. Non-disclosure agreement
-(may also already be defined somewhere in NH law; would have to check)
+For the purposes of this legislation, a "non-disclosure agreement" shall refer to
+any contract or clause of a contract that restricts access to the sharing of
+certain information between the signing parties. This definition of "non-disclosure
+agreement" shall be held in accordance to the references to non-disclosure
+agreements found in RSA 275:70, RSA 649-A:7, and elsewhere in state law.
  1i. Proprietary software
 For the purposes of New Hampshire law, "proprietary software" shall be understood
 to mean the opposite of "free software" as defined in 1a.
@@ -210,5 +219,7 @@ Sources:
 https://copyleft.org/
 https://www.theregister.com/2021/02/04/dna_testing_software/
 https://legiscan.com/NH/bill/HB558/2021
+https://www.nhbar.org/the-changing-landscape-of-restrictive-covenants/
+http://www.gencourt.state.nh.us/rsa/html/xxiii/275/275-70.htm
 
 (This became LSR 2022-2270)
