@@ -63,7 +63,8 @@ For the purposes of this legislation, a "non-disclosure agreement" shall refer t
 any contract or clause of a contract that restricts access to the sharing of
 certain information between the signing parties. This definition of "non-disclosure
 agreement" shall be held in accordance to the references to non-disclosure
-agreements found in RSA 275:70, RSA 649-A:7, and elsewhere in state law.
+agreements found in RSA 275:70 and RSA 649-A:7, and with the definitions of
+confidentiality as set forth in RSA 410:18.
  1i. Proprietary software
 For the purposes of New Hampshire law, "proprietary software" shall be understood
 to mean the opposite of "free software" as defined in 1a.
@@ -221,5 +222,7 @@ https://www.theregister.com/2021/02/04/dna_testing_software/
 https://legiscan.com/NH/bill/HB558/2021
 https://www.nhbar.org/the-changing-landscape-of-restrictive-covenants/
 http://www.gencourt.state.nh.us/rsa/html/xxiii/275/275-70.htm
+https://www.gencourt.state.nh.us/rsa/html/XXX/329/329-31-a.htm
+https://www.gencourt.state.nh.us/rsa/html/XXXVII/410/410-18.htm
 
 (This became LSR 2022-2270)
