@@ -14,5 +14,5 @@ https://twitter.com/TheWarOnCars/status/1290255710786170880?s=20
 https://thewaroncars.org/2020/08/03/vehicles-as-weapons/
 http://web.archive.org/web/20200804123236/https://twitter.com/cooljeanius/status/1290623990659198976
 
-(this got split into LSR 2022-2253 and LSR 2022-2255; I might just withdraw the
-first one if they have to be split up like that...)
+(this got split into LSR 2022-2253 and LSR 2022-2255, so I withdrew the first one
+and had it merged back into the second one)
