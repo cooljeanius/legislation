@@ -13,3 +13,5 @@ New tactic: have the Commission on Demographic Trends handle it:
 https://www.gencourt.state.nh.us/rsa/html/I/4-C/4-C-37.htm
 
 (This became LSR 2022-2491)
+It then became HB1294:
+http://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2491&sy=2022&sortoption=&txtsessionyear=2022&ddlsponsors=409026
