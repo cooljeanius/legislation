@@ -1,0 +1,5 @@
+0. Relative to interoperability of public housing data
+1. All state-funded public housing programs shall store any data they keep about
+   their residents in a manner that allows residents to transfer easily from one
+   public housing project to another (even across state lines), should they chose
+   to do so.
