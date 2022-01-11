@@ -89,7 +89,8 @@ shall always be legal in the state of New Hampshire.
 projects
 No noncompete clause by which an employer prevents an employee from contributing
 to a Free Software project they might wish to contribute to, shall be enforced in
-the State of New Hampshire.
+the State of New Hampshire. This provision shall not be construed so as to allow
+violation of federal security clearance protocols.
 4. Relative to the state government usage of external software
  4a. Study committee
 Whereas the state government currently uses much proprietary software in its
@@ -214,7 +215,8 @@ prevent employees from sharing the source code of free-and-open-source software
 that they would otherwise normally be able to share due to the software's license.
 In simpler terms, in cases of conflicts between a non-disclosure agreement and a
 free-and-open-source software license, the free-and-open-source software license
-wins.
+wins. This provision shall not be construed so as to allow violation of federal
+security clearance protocols.
 
 Sources:
 https://copyleft.org/
