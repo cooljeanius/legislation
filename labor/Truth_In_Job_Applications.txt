@@ -19,7 +19,15 @@
    experience requirement for applicants whatsoever.
 7. Any job posting that includes false requirements for applicants shall be
    prosecutable under New Hampshire's false advertising laws.
-8. No job posting for any position in the State of New Hampshire shall require a
+8. All job postings in the State of New Hampshire shall include notice of how long
+   the employer expects to take to respond to completed job applications. Any job
+   applicant who notices a job application that fails to include this notice may
+   report it to... (the Department of Labor? Department of Employment Security?
+   I'm not sure...), who shall then [TODO]. Failure by an employer to respond to a
+   job applicant's job application within the time they specified in their posting
+   shall cause the employer to be liable for the time in which the applicant spent
+   waiting to receive a reply.
+9. No job posting for any position in the State of New Hampshire shall require a
    driver's license solely for identification purposes if a non-drivers ID would
    suffice. Possession of a driver's license may only be made a requirement for
    job applications where driving is absolutely necessary.
