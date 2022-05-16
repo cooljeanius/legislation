@@ -5,3 +5,4 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
 2. "opt out of NFTs" bill: https://twitter.com/cooljeanius/status/1481000598388494338
 3. grocery store food donation bill: https://twitter.com/cooljeanius/status/1478797876293771268
 4. housing speculation: https://twitter.com/pchowder/status/1516018096930230277
+5. Rich Felker's tech regs idea for requiring security updates with no new features
