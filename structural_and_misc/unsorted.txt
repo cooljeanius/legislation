@@ -7,4 +7,5 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
 4. housing speculation: https://twitter.com/pchowder/status/1516018096930230277
 5. Rich Felker's tech regs idea for requiring security updates with no new features
 6. Ban on lawn mandates: https://twitter.com/snowofthefuture/status/1531106462486888449
-7. Municipal land use regulations database: make public?
+7. Municipal land use regulations database: tweak RSA 675:9 (dunno how)
+8. Something about AGI alignment
