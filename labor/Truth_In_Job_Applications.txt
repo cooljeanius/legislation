@@ -31,3 +31,9 @@
    driver's license solely for identification purposes if a non-drivers ID would
    suffice. Possession of a driver's license may only be made a requirement for
    job applications where driving is absolutely necessary.
+
+Other stuff to consider including:
+- whether phone numbers (cell vs. landline) are necessary and/or could be used for
+  discrimination
+- whether mailing addresses (home vs. P.O. Box) are necessary and/or could be used
+  for discrimination based on location, housing type (apt. vs. house), or otherwise
