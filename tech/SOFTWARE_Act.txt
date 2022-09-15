@@ -221,6 +221,10 @@ In simpler terms, in cases of conflicts between a non-disclosure agreement and a
 free-and-open-source software license, the free-and-open-source software license
 wins. This provision shall not be construed so as to allow violation of federal
 security clearance protocols.
+14. Information Technology Council
+The Information Technology Council established under RSA Title I Chapter 21-R 
+Section 21 R:6 shall add the use of free and open source software to the list of
+topics upon which it advises the commissioner.
 
 Sources:
 https://copyleft.org/
