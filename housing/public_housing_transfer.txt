@@ -3,3 +3,5 @@
    their residents in a manner that allows residents to transfer easily from one
    public housing project to another (even across state lines), should they chose
    to do so.
+
+(This became LSR 2023-0184)

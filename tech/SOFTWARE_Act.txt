@@ -238,3 +238,13 @@ https://www.gencourt.state.nh.us/rsa/html/XXXVII/410/410-18.htm
 (This became LSR 2022-2270)
 It then became HB1273:
 http://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2270&sy=2022&sortoption=&txtsessionyear=2022&ddlsponsors=409026
+
+The feedback from the ED&A committee was that it was trying to do too much in a
+single bill, so for 2023 I split it up into the following LSRs:
+- LSR 2023-0187
+- LSR 2023-0188
+- LSR 2023-0189
+- LSR 2023-0190
+- LSR 2023-0192
+- LSR 2023-0193
+- LSR 2023-0194
