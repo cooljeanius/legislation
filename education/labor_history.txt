@@ -10,3 +10,5 @@
 (This became LSR 2022-2259)
 It then became HB1144:
 http://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2259&sy=2022&sortoption=&txtsessionyear=2022&ddlsponsors=409026
+
+Related, but not exactly the same: LSR 2023-0195 (was HB170 in 2021)
