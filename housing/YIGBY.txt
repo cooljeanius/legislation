@@ -19,3 +19,10 @@ See also HB1098:
 https://legiscan.com/NH/bill/HB1098/2022
 
 LSR to try to resolve aformentioned conflicts: LSR 2023-0183
+
+- Get in touch with Bob Harb
+- diffs between NHMA's language and existing HB1021 language:
+ * change "site plan review" to "local land use regulation"
+ * change "primarily used for religious purposes" to "based solely on the
+   religious nature of the use"
+ * second clause: split off from first, completely reworded
