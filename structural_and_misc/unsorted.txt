@@ -14,3 +14,7 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
 11. Incentives for the building of sidewalks
 12. Public electrical outlets
 13. Stuff inspired by Michelle Wu's digital equity plan: https://twitter.com/schock/status/1456066457645862912
+14. Find out that NH Supreme Court ruling about dumpster diving and see if it needs
+    to be overruled
+15. Right to inspect source code of rent-setting software for tenants; if landlord
+    doesn't grant this, then tenant may go on rent strike
