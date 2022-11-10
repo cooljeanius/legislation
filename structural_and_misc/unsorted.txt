@@ -18,3 +18,4 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     to be overruled
 15. Right to inspect source code of rent-setting software for tenants; if landlord
     doesn't grant this, then tenant may go on rent strike
+16. Derry municipal reorganization: https://twitter.com/psephographic/status/1590768622703902720
