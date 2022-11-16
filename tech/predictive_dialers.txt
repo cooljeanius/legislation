@@ -7,3 +7,7 @@
    instead of 2; to be auto-updated if the FCC changes their number)
 3. Predictive dialers may not be used to call numbers on the national Do Not Call
    Registry in the State of New Hampshire.
+4. All persons wishing to use a predictive dialer in the State of New Hampshire
+   must release the source code for that predictive dialer software under a free
+   and open source software license, so that it may be inspected to ensure that it
+   meets the preceding requirements.

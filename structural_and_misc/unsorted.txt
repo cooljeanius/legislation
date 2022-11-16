@@ -9,7 +9,7 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
 6. Ban on lawn mandates: https://twitter.com/snowofthefuture/status/1531106462486888449
 7. Municipal land use regulations database: tweak RSA 675:9 (dunno how)
 8. Something about AGI (Artificial General Intelligence) alignment
-9. Electric car charging stations for renters
+9. Electric car charging stations for renters (Kris Schultz has LSR 2023-0003)
 10. Public transit bus stops incentives
 11. Incentives for the building of sidewalks
 12. Public electrical outlets
