@@ -38,3 +38,11 @@ Other stuff to consider including:
   discrimination
 - whether mailing addresses (home vs. P.O. Box) are necessary and/or could be used
   for discrimination based on location, housing type (apt. vs. house), or otherwise
+
+From ChatGPT:
+
+In general, job postings are not covered by false advertising law. False advertising refers to the practice of making false or misleading claims about a product or service in order to deceive consumers and gain an unfair advantage in the marketplace. False advertising is regulated by laws such as the Federal Trade Commission Act in the United States, which prohibits the use of false or deceptive advertising practices.
+
+However, job postings are typically not considered to be advertisements in the same way that products or services are. Job postings are not intended to sell a product or service, but rather to provide information about a job opportunity and attract potential applicants. As such, they are not subject to the same regulations and laws that apply to advertisements for products or services.
+
+That being said, job postings are still subject to other laws and regulations that govern employment practices. For example, job postings must not discriminate against applicants on the basis of race, gender, religion, age, or other protected characteristics. They must also provide accurate and truthful information about the job duties, requirements, and compensation. If a job posting contains false or misleading information, an applicant may have grounds to challenge the posting or file a complaint with the appropriate authorities. However, these challenges and complaints would not be based on false advertising law, but rather on other laws and regulations that apply to employment practices.
