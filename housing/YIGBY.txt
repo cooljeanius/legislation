@@ -26,3 +26,12 @@ LSR to try to resolve aformentioned conflicts: LSR 2023-0183
  * change "primarily used for religious purposes" to "based solely on the
    religious nature of the use"
  * second clause: split off from first, completely reworded
+- Get in touch with Gov's office
+
+From ChatGPT:
+
+Yes, building housing for the unhoused in accordance with the tenets of a religious organization's creed would likely be considered "religious exercise" protected by the First Amendment to the US Constitution. The First Amendment protects the freedom of religion, which includes the right to express and practice one's religious beliefs without interference from the government.
+
+In the context of building housing for the unhoused, providing this service in accordance with the religious organization's beliefs would likely be considered an expression of those beliefs. As such, the government would be prohibited from interfering with or restricting the organization's ability to provide this service. This protection would extend to any other activities that the organization may engage in as part of their religious exercise, such as providing meals or other forms of assistance to the unhoused.
+
+It is important to note that the First Amendment's protection of religious exercise is not absolute. In some cases, the government may be able to regulate religious exercise if it can demonstrate that such regulation is necessary to serve a compelling government interest and is narrowly tailored to achieve that interest. However, in the case of a religious organization building housing for the unhoused, it is unlikely that the government would be able to justify any such regulation.
