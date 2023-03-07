@@ -38,6 +38,8 @@ Other stuff to consider including:
   discrimination
 - whether mailing addresses (home vs. P.O. Box) are necessary and/or could be used
   for discrimination based on location, housing type (apt. vs. house), or otherwise
+- implementing Employee Polygraph Protection Act at the state level:
+  https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf
 
 From ChatGPT:
 
