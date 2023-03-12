@@ -1,0 +1,5 @@
+(like unsorted.txt)
+
+- loitering
+- trespassing
+- jaywalking
