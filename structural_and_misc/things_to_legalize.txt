@@ -3,3 +3,4 @@
 - loitering
 - trespassing
 - jaywalking
+- squatting
