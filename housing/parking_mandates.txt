@@ -1,0 +1,16 @@
+Since a straight-up ban on parking minimums couldn't pass, this file is just for
+brainstorming some alternative conditions under which parking minimums could be
+limited.
+
+0. Relative to Parking Mandates
+1. No municipality shall institute a zoning ordinance that requires new housing
+   developments to include a minimum number of parking places, unless (choose at
+   least one of the following):
+   a. they also institute a zoning ordinance that places a maximum limit on the
+      number of parking places a new housing development may have
+   b. the area in question (is/isn't) served by municipal water & sewer
+   c. there are no viable public transportation services serving the area in
+      question
+   d. the affected properties are of a certain size
+   e. it (is/isn't) a designated downtown area / historic district / town center
+   f. (other?)
