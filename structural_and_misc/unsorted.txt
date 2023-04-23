@@ -31,3 +31,5 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     generating plants)
 21. Resolution reaffirming NH's support for the Child Labor Amendment; see the one
     that was recently introduced in MN: https://www.revisor.mn.gov/bills/text.php?number=HF3275&version=latest&session=93&session_number=0&session_year=2023
+22. Check if House Rules protect testimony before House Committee Hearings from
+    being used against people in court
