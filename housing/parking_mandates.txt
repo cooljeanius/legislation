@@ -14,3 +14,6 @@ limited.
    d. the affected properties are of a certain size
    e. it (is/isn't) a designated downtown area / historic district / town center
    f. (other?)
+2. Any municipality that does institute a zoning ordinance requiring new housing
+   developments to include a minimum number of parking places shall also allow
+   bike racks and/or bus stops to count as parking places.
