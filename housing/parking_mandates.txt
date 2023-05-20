@@ -11,7 +11,7 @@ limited.
    b. the area in question (is/isn't) served by municipal water & sewer
    c. there are no viable public transportation services serving the area in
       question
-   d. the affected properties are of a certain size
+   d. the affected properties are of a certain size (density?)
    e. it (is/isn't) a designated downtown area / historic district / town center
    f. ADUs
    g. (other?)
