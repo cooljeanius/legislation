@@ -20,16 +20,18 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     doesn't grant this, then tenant may go on rent strike (or maybe do it as part
     of eviction hearings instead? i.e., if, upon exercising right to inspect
     source code, tenant finds that landlord was engaged in price-fixing, tenant
-    automatically wins case and can't be evicted)
+    automatically wins case and can't be evicted) (Ellen interested)
 16. Derry municipal reorganization: https://twitter.com/psephographic/status/1590768622703902720
 17. Official IPA pronunciation for "New Hampshire" and "Concord"
 18. Seniority pay for mental health professionals, to reduce turnover
 19. Something about rent payments vs. credit scores: https://twitter.com/ninaturner/status/1600899030623879169
+    (maybe fold in with the "right to inspect" one in number 15?)
 20. State version of the federal "Linemen Legacy Act": https://www.congress.gov/bill/117th-congress/senate-bill/398/all-info?r=3&s=1
     (except more inclusive: also incorporating active-duty power systems
     personnel on grid and power distribution works, e.g., for substations and
     generating plants)
 21. Resolution reaffirming NH's support for the Child Labor Amendment; see the one
     that was recently introduced in MN: https://www.revisor.mn.gov/bills/text.php?number=HF3275&version=latest&session=93&session_number=0&session_year=2023
+    (Ellen has contacts in other states)
 22. Check if House Rules protect testimony before House Committee Hearings from
     being used against people in court
