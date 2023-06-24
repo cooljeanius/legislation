@@ -13,10 +13,13 @@ limited.
       question
    d. the affected properties are of a certain size (density?)
    e. it (is/isn't) a designated downtown area / historic district / town center
-   f. ADUs
-   g. (other?)
+   f. (other?)
 2. Any municipality that does institute a zoning ordinance requiring new housing
    developments to include a minimum number of parking places shall also allow
    bike racks and/or bus stops to count as parking places.
+3. Any municipality that institutes a zoning ordinance requiring parking minimums
+   for ADUs shall not make their parking minimums for ADUs any more restrictive
+   than the parking minimums would be if the lots were subdivided and the ADUs were
+   treated as their own separate property.
 
 To talk with: Josh Yokela, Merryl Gibbs, Jessica Grill
