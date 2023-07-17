@@ -1,0 +1,10 @@
+0. Relative to an Application Programming Interface (API) for the General Court
+   website
+1. Definitions
+ 1a. Application Programming Interface (API)
+For the purposes of this legislation, an Application Programming Interface, or
+"API", shall be defined as... (TODO)
+2. General Court API
+The maintainers of the General Court website (TODO: find out which position
+specifically is responsible for it) shall implement an API for the website that
+allows for... (TODO)
