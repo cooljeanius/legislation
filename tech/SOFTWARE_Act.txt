@@ -248,3 +248,4 @@ single bill, so for 2023 I split it up into the following LSRs:
 - LSR 2023-0192
 - LSR 2023-0193
 - LSR 2023-0194
+(TODO: add the actual bill numbers for the bills that the LSRs became)
