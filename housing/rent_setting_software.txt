@@ -1,0 +1,10 @@
+0. Relative to a right to inspect source code of rent-setting software for tenants
+1. If a landlord doesn't grant tenants a right to inspect the source code of
+   software used to set their rent, then the tenants may go on rent strike.
+2. There is to be a right to inspect the source code of software used in
+   rent-setting at eviction hearings. If, upon exercising their right to inspect
+   the source code of rent-setting software, the tenant finds that landlord was
+   engaged in price-fixing, the tenant shall win their case, and shall not be
+   evicted.
+
+(Ellen interested)
