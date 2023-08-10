@@ -9,7 +9,10 @@
 (TODO: research the status of any such existing units)
 (Talk with: ACLU, Marjorie Smith, Merryl Gibbs)
 
-From ChatGPT:
+Relevant article:
+https://newhampshirebulletin.com/2023/08/09/nh-doj-more-complex-civil-litigation-load-than-at-any-time-in-recent-memory/
+
+From ChatGPT in response to the prompt "How is white-collar crime generally prosecuted?" on December 4, 2022:
 
 White-collar crime is a broad term that refers to non-violent crimes that are
 committed by individuals or organizations in the course of their business or

@@ -2,7 +2,8 @@
 1. (TODO: research: how worker-owned & customer-owned cooperatives differ, etc.)
 2. (check registration with Department of Labor)
 
-From ChatGPT:
+From ChatGPT in response to the prompt "How do worker-owned cooperatives and
+customer-owned cooperatives differ?" on December 4, 2022:
 
 Worker-owned cooperatives and customer-owned cooperatives are two types of
 cooperative businesses that are structured and operated differently. A

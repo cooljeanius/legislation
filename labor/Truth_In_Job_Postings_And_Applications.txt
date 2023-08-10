@@ -41,7 +41,7 @@ Other stuff to consider including:
 - implementing Employee Polygraph Protection Act at the state level:
   https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf
 
-From ChatGPT:
+From ChatGPT in response to the prompt "Are job postings covered by false advertising law?" on December 4, 2022:
 
 In general, job postings are not covered by false advertising law. False
 advertising refers to the practice of making false or misleading claims about a
