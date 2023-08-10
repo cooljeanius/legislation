@@ -28,7 +28,7 @@ LSR to try to resolve aformentioned conflicts: LSR 2023-0183
  * second clause: split off from first, completely reworded
 - Get in touch with Gov's office
 
-From ChatGPT:
+From ChatGPT in response to the prompt "If a religious organization builds housing for the unhoused in accordance with the tenets of their religious creed, does that count as 'religious exercise' protected by the First Amendment?" on December 7, 2022:
 
 Yes, building housing for the unhoused in accordance with the tenets of a
 religious organization's creed would likely be considered "religious exercise"
