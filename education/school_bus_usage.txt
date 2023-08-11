@@ -9,3 +9,6 @@
    request shall only be granted if the teacher's requested pick-up location is
    convenient for the bus driver, and if the school district can afford to pay
    the school bus driver for the additional driving.
+
+Research request status as of August 10, 2023: filed, received info, closed
+(should probably copy some of the info from email to here)
