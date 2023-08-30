@@ -1,0 +1,22 @@
+Notes about DHHS
+
+- BIS (Bureau of Information Services within DHHS) - contracts out a lot
+- vendor lock-in
+- Informatica (SaaS)
+- Sybase
+- Tableau (affected by log4j, but vendor wouldn't patch, even though patch was
+  available)
+- they do actually have 1 RHEL machine! (originally from Deloitte)
+- RedCap
+- Oracle
+- Salesforce
+- kids who age out of DCYF often end up homeless - what happens with their data
+  in that case?
+
+ideas:
+- Go back to bill filed w/Rep. Berezhny; review RFP process
+- Just the definitions? (along with fraud / false advertising)
+- Check over with DCYF - bill for web presence for publicly available data
+- Cross-reference with autism database one: RSA 171-A:30-31 / NHCAR He-M 501
+- just focus on getting data in open-standard formats (.csv)
+- "interoperability" is preferred term for data portability
