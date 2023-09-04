@@ -16,7 +16,8 @@ Notes about DHHS
 ideas:
 - Go back to bill filed w/Rep. Berezhny; review RFP process
 - Just the definitions? (along with fraud / false advertising)
-- Check over with DCYF - bill for web presence for publicly available data
+- Check over with DCYF - bill for web presence for publicly available data - I
+  think this was HB551 from Rep. Corcoran? https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2023&id=595&txtFormat=html
 - Cross-reference with autism database one: RSA 171-A:30-31 / NHCAR He-M 501
 - just focus on getting data in open-standard formats (.csv)
 - "interoperability" is preferred term for data portability
