@@ -244,7 +244,7 @@ single bill, so for 2023 I split it up into the following LSRs:
 - LSR 2023-0187, became HB366, prohibiting certain noncompete clauses and nondisclosure agreements regarding free software projects and the sharing of open source software: https://gencourt.state.nh.us/lsr_search/billText.aspx?id=187&type=4
 - LSR 2023-0188, became HB617, prohibiting, with limited exceptions, state agencies from requiring use of proprietary software in interactions with the public: https://gencourt.state.nh.us/lsr_search/billText.aspx?id=188&type=4
 - LSR 2023-0189, became HB327, prohibiting the state from requiring the public use proprietary software when visiting state websites: https://gencourt.state.nh.us/lsr_search/billText.aspx?id=189&type=4
-- LSR 2023-0190 (this one, relative to a right to data portability of state agency information, I withdrew upon folding into one of the others; I forget which, though...)
+- LSR 2023-0190 (this one, relative to a right to data portability of state agency information, I withdrew upon folding into one of the others; I forget which, though...) (planning to re-file separately)
 - LSR 2023-0192, became HB589, prohibiting state and local law enforcement from participating in the enforcement of copyright claims against free and open source software projects: https://gencourt.state.nh.us/lsr_search/billText.aspx?id=192&type=4
 - LSR 2023-0193, became HB556, relative to the duties of the information technology council: https://gencourt.state.nh.us/lsr_search/billText.aspx?id=193&type=4
 - LSR 2023-0194, became HB67, relative to the right to review source code of software in criminal cases: https://gencourt.state.nh.us/lsr_search/billText.aspx?id=194&type=4
