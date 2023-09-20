@@ -1,0 +1,2 @@
+- https://github.com/opendata/Open-Data-Policies
+- https://github.com/github/github-ospo
