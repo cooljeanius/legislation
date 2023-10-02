@@ -1,2 +1,4 @@
 - https://github.com/opendata/Open-Data-Policies
 - https://github.com/github/github-ospo
+- https://github.com/nysenate/OpenLegislation
+- https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/
