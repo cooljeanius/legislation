@@ -1,0 +1,9 @@
+0. Relative to an interstate compact for timekeeping
+1. The State of New Hampshire is hereby authorized to enter into a binding
+   interstate compact with the New England states, as well as any political
+   subdivisions of any US states east of the Hudson River, for the purposes
+   of the coordination of timekeeping, including, but not limited to, changing
+   the timezone to another timezone, such as Atlantic Standard Time, and the
+   elimination of Daylight Savings Time.
+2. The State of New Hampshire shall not make any changes in these regards
+   unilaterally, without the consent of the other members of the compact.
