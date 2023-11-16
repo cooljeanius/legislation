@@ -1,0 +1,14 @@
+0. Relative to the file formats of legislative support requests
+1. The Office of Legislative Services shall accept legislative support requests
+   in the diff file format, as specified by POSIX IEEE Std. 1003.1-2008 (see ref.)
+   Diffs submitted in this method shall be made as diffs against the original RSAs
+   that they intend to modify.
+2. The State Department of Information Technology shall be authorized to spend a
+   sum of money necessary for the installation and maintenance of software required
+   to allow this act to be implemented (provided that the software in question
+   conforms to the definition of "Open Source Software" set forth in RSA 21-R:10
+   I-a.), and to provide the necessary training to the drafting attorneys at OLS
+   on the proper usage of said software.
+
+Ref.:
+IEEE Computer Society; The Open Group (26 September 2008). Standard for Information Technology—Portable Operating System Interface (POSIX) Base Specifications, Issue 7. pp. 2599–2607. IEEE Std. 1003.1-2001 specifies traditional, "ed script", and context diff output formats; IEEE Std. 1003.1-2008 added the (by then more common) unified format.
