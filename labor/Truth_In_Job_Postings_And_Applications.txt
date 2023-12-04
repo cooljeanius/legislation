@@ -43,9 +43,12 @@ Other stuff to consider including:
 - explicit overturn of NLRB decision in Toering Elec. Co., 351 N.L.R.B. No. 18
   (Sept. 29, 2007), which concluded that workers in the United States can be
   fired if they are believed to not be "genuinely interested" in obtaining the job.
-  This category includes salting.
+  This category includes salting. Update: apparently there was a more recent decision
+  by the Eighth Circuit Court of Appeals in 2018 that superseded Toering; the OLS
+  researchers said that this one makes further legislation unnecessary, but I'm not so
+  sure myself; might want to investigate further...
 
-Research request status as of August 10, 2023: filed, in progress
+Research request status as of December 4, 2023: filed, primary one is still in progress
 
 From ChatGPT in response to the prompt "Are job postings covered by false advertising law?" on December 4, 2022:
 
