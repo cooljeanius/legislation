@@ -1,9 +1,11 @@
 0. Relative to labor unions
 1. The right to strike (guarantee it for all professions, including teachers)
-(Tony Labranche did a separate CACR towards this end in the 2021-2022 term; if
-bringing it back, consider modifying it to more closely match the state
-constitutional amendment that Illinois passed at the ballot box in the 2022
-midterms)
+   (Tony Labranche did a separate CACR towards this end in the 2021-2022 term;
+   if bringing it back, consider modifying it to more closely match the state
+   constitutional amendment that Illinois passed at the ballot box in the 2022
+   midterms)
 2. Non-disparagement clauses (ban employers from requiring them) - see recent NLRB
-decision:
-https://www.vice.com/en/article/dy7a7x/companies-cant-ask-you-to-shut-up-to-receive-severance-nlrb-rules
+   decision:
+   https://www.vice.com/en/article/dy7a7x/companies-cant-ask-you-to-shut-up-to-receive-severance-nlrb-rules
+   (this part became LSR 24-2456, "relative to severance agreements requiring
+   employees to broadly waive labor law rights.")

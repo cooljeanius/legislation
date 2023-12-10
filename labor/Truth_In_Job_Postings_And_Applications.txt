@@ -40,13 +40,15 @@ Other stuff to consider including:
   for discrimination based on location, housing type (apt. vs. house), or otherwise
 - implementing Employee Polygraph Protection Act at the state level:
   https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf
+  (This one became LSR 24-2330 for 2024, "relative to prohibiting employers from
+  using polygraph testing.")
 - explicit overturn of NLRB decision in Toering Elec. Co., 351 N.L.R.B. No. 18
   (Sept. 29, 2007), which concluded that workers in the United States can be
   fired if they are believed to not be "genuinely interested" in obtaining the job.
-  This category includes salting. Update: apparently there was a more recent decision
-  by the Eighth Circuit Court of Appeals in 2018 that superseded Toering; the OLS
-  researchers said that this one makes further legislation unnecessary, but I'm not so
-  sure myself; might want to investigate further...
+  This category includes salting. Update: apparently there was a more recent
+  decision by the Eighth Circuit Court of Appeals in 2018 that superseded Toering;
+  the OLS researchers said that this one makes further legislation unnecessary, but
+  I'm not so sure myself; might want to investigate further...
 
 Research request status as of December 4, 2023: filed, primary one is still in progress
 

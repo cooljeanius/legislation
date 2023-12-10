@@ -20,7 +20,7 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     to be overruled (Jonah interested)
 15. Derry municipal reorganization: https://twitter.com/psephographic/status/1590768622703902720
 16. Official IPA pronunciation for "New Hampshire" (/nuːˈhæmpʃər/) and "Concord"
-    (/ˈkɒŋkərd/)
+    (/ˈkɒŋkərd/) (filed LSR 24-2453 for 2024)
 17. Seniority pay for mental health professionals, to reduce turnover
 18. Something about rent payments vs. credit scores: https://twitter.com/ninaturner/status/1600899030623879169
     (maybe fold in with the "right to inspect" one in
@@ -28,14 +28,21 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
 19. State version of the federal "Linemen Legacy Act": https://www.congress.gov/bill/117th-congress/senate-bill/398/all-info?r=3&s=1
     (except more inclusive: also incorporating active-duty power systems
     personnel on grid and power distribution works, e.g., for substations and
-    generating plants)
+    generating plants) (filed LSR 24-2333, "relative to establishing an electrical
+    line technician recognition day," but then withdrew it because that wasn't
+    actually what I wanted)
 20. Resolution reaffirming NH's support for the Child Labor Amendment; see the one
     that was recently introduced in MN: https://www.revisor.mn.gov/bills/text.php?number=HF3275&version=latest&session=93&session_number=0&session_year=2023
-    (Ellen has contacts in other states)
+    (Ellen has contacts in other states) (filed LSR 24-2335, "reaffirming support
+    for the child labor amendment to the United States Constitution.")
 21. Check if House Rules protect testimony before House Committee Hearings from
     being used against people in court (check with Amanda Grady Sexton of NHCADSV?)
+    Became LSR 24-2324, "relative to establishing immunity for certain testimony
+    in public legislative hearings."
 22. Something about municipalities building sidewalks on state-owned land (check
     that bill Jeb Bradley had before our committee in the 21-22 term about One
-    Touch Make Ready rules - it was SB88, heard on May 10, 2021)
-23. Something about the state autism database: https://twitter.com/cooljeanius/status/1670101864703045633
-    (check with other members of the Disability Caucus, NAMI, Shaun Filiault, etc.)
+    Touch Make Ready rules - it was SB88, heard on May 10, 2021) (filed LSR
+    24-2430, "relative to requests for easements for the purpose of laying
+    sidewalk along class I-IV highways.")
+23. (autism registry one moved to tech/Autism_Registry.html.diff) (filed LSR
+    24-2428, "relative to the autism registry.")

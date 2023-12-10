@@ -10,3 +10,6 @@
 (Ellen interested)
 
 Ref: https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent
+
+This became LSR 24-2328, "prohibiting termination of a tenancy based on a tenant's
+failure to pay rent that was increased by certain price fixing programs."
