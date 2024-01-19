@@ -234,6 +234,7 @@ https://www.nhbar.org/the-changing-landscape-of-restrictive-covenants/
 http://www.gencourt.state.nh.us/rsa/html/xxiii/275/275-70.htm
 https://www.gencourt.state.nh.us/rsa/html/XXX/329/329-31-a.htm
 https://www.gencourt.state.nh.us/rsa/html/XXXVII/410/410-18.htm
+https://arstechnica.com/tech-policy/2024/01/fujitsu-bugs-that-sent-innocent-people-to-prison-were-known-from-the-start/
 
 (This became LSR 2022-2270)
 It then became HB1273:
