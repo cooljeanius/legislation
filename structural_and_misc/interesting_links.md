@@ -2,3 +2,4 @@
 - https://github.com/github/github-ospo
 - https://github.com/nysenate/OpenLegislation
 - https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/
+- https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0028?ys=2024RS
