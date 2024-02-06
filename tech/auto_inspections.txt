@@ -1,0 +1,5 @@
+0. Relative to automobile inspections
+1. All automobile inspections mandated under RSA [TODO: get number] shall include
+   inspection of the source code of all software used by (on-board?) computerized
+   systems in the process of the operation of the vehicle.
+
