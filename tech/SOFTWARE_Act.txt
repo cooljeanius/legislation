@@ -249,3 +249,7 @@ single bill, so for 2023 I split it up into the following LSRs:
 - LSR 2023-0192, became HB589, prohibiting state and local law enforcement from participating in the enforcement of copyright claims against free and open source software projects: https://gencourt.state.nh.us/lsr_search/billText.aspx?id=192&type=4
 - LSR 2023-0193, became HB556, relative to the duties of the information technology council: https://gencourt.state.nh.us/lsr_search/billText.aspx?id=193&type=4
 - LSR 2023-0194, became HB67, relative to the right to review source code of software in criminal cases: https://gencourt.state.nh.us/lsr_search/billText.aspx?id=194&type=4
+
+See further discussion in the replies to:
+https://social.treehouse.systems/@egallager/111783939956822142
+
