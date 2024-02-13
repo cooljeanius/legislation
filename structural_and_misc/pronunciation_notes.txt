@@ -2,6 +2,7 @@
 1. RSA 3: state symbols:
   - https://en.wikipedia.org/wiki/List_of_New_Hampshire_state_symbols
   - http://www.cowhampshireblog.com/nh-almanac-state-symbols/
+  - branding: GWU "visual identity" rebrand
 2. IPA:
   - https://en.wikipedia.org/wiki/Help:IPA/English
   - https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
