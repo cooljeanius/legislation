@@ -47,3 +47,4 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
 23. (autism registry one moved to tech/Autism_Registry.html.diff) (filed LSR
     24-2428, "relative to the autism registry.")
 24. dog/cat cafés... check first to see what (if anything) is preventing them?
+25. libraries accepting cat pics in lieu of fines: https://www.mentalfloss.com/posts/cat-photos-replace-library-fines
