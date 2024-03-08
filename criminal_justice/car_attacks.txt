@@ -18,3 +18,6 @@ http://web.archive.org/web/20200804123236/https://twitter.com/cooljeanius/status
 and had it merged back into the second one)
 It then became HB1145:
 http://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2255&sy=2022&sortoption=&txtsessionyear=2022&ddlsponsors=409026
+...which I then requested the committee ITL due to a scheduling conflict.
+Maybe try filing them as separate LSRs and actually keeping them separate this
+next time?

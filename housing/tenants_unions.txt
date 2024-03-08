@@ -27,4 +27,5 @@ Important considerations:
 - protection from landlord intimidation/retaliation (define certain actions as
   retaliatory?)
 - Board of Tenant Relations? (similar to NLRB)
-- There apparently has been legislation in Connecticut that I could borrow from
+- There apparently has been legislation in Connecticut that I could borrow from;
+  TODO: find out what it was and research

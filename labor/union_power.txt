@@ -8,4 +8,6 @@
    decision:
    https://www.vice.com/en/article/dy7a7x/companies-cant-ask-you-to-shut-up-to-receive-severance-nlrb-rules
    (this part became LSR 24-2456, "relative to severance agreements requiring
-   employees to broadly waive labor law rights.")
+   employees to broadly waive labor law rights.", which then became HB1375)
+   (unfortunately I forgot to cite the NLRB case when presenting HB1375, so maybe
+   come back with a version that more explicitly references it?)

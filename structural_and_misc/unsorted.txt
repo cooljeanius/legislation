@@ -46,6 +46,7 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     Touch Make Ready rules - it was SB88, heard on May 10, 2021) (filed LSR
     24-2430, "relative to requests for easements for the purpose of laying
     sidewalk along class I-IV highways.", which then became HB1196)
+    TODO: follow up with DOT guy about this
 23. (autism registry one moved to tech/Autism_Registry.html.diff) (filed LSR
     24-2428, "relative to the autism registry.", which then became HB1615)
 24. dog/cat cafés... check first to see what (if anything) is preventing them?
