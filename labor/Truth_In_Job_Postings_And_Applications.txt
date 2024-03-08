@@ -41,7 +41,7 @@ Other stuff to consider including:
 - implementing Employee Polygraph Protection Act at the state level:
   https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf
   (This one became LSR 24-2330 for 2024, "relative to prohibiting employers from
-  using polygraph testing.")
+  using polygraph testing.", which then became HB1072)
 - explicit overturn of NLRB decision in Toering Elec. Co., 351 N.L.R.B. No. 18
   (Sept. 29, 2007), which concluded that workers in the United States can be
   fired if they are believed to not be "genuinely interested" in obtaining the job.

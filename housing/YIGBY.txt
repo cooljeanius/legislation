@@ -50,3 +50,7 @@ exercise if it can demonstrate that such regulation is necessary to serve a
 compelling government interest and is narrowly tailored to achieve that interest.
 However, in the case of a religious organization building housing for the unhoused,
 it is unlikely that the government would be able to justify any such regulation.
+
+-- (end ChatGPT portion) --
+
+Relevant federal law: https://en.wikipedia.org/wiki/Religious_Land_Use_and_Institutionalized_Persons_Act 

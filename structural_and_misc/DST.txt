@@ -8,3 +8,5 @@
    the 24 hour format for writing and displaying times.
 2. The State of New Hampshire shall not make any changes in these regards
    unilaterally, without the consent of the other members of the compact.
+
+TODO: get in touch with Tim Horrigan

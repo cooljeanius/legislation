@@ -1,6 +1,6 @@
 0. Relative to addiction to video games
-1. All proprietary video games (using the definition of "proprietary" from the
-   SOFTWARE Act) sold in the state of New Hampshire shall be required to include
+1. All proprietary video games (using the definition of "proprietary" from
+   RSA 21-R:10-III) sold in the state of New Hampshire shall be required to include
    functionality that allows players to pause, save, and quit the game at any time
    while playing it.
 2. Any seller or manufacturer of a proprietary video game lacking such a feature
