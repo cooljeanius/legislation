@@ -51,4 +51,8 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     24-2428, "relative to the autism registry.", which then became HB1615)
 24. dog/cat cafés... check first to see what (if anything) is preventing them?
 25. libraries accepting cat pics in lieu of fines: https://www.mentalfloss.com/posts/cat-photos-replace-library-fines
-26. Study committee re: clothing size standardization
+26. Study committee re: clothing size standardization, and participation in
+    standards bodies in general... do NH National Guard uniforms comply with
+    STANAG 2335?
+27. Municipal mascots, like they have in Japan:
+    https://en.wikipedia.org/wiki/Yuru-chara
