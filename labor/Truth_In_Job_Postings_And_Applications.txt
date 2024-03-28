@@ -34,10 +34,12 @@
    job applications where driving is absolutely necessary.
 
 Other stuff to consider including:
-- whether phone numbers (cell vs. landline) are necessary and/or could be used for
+- whether phone numbers (cell vs. landline) are necessary fields in job applications,
+  and/or if distinguishing between phone numbers in this way could be used for
   discrimination
-- whether mailing addresses (home vs. P.O. Box) are necessary and/or could be used
-  for discrimination based on location, housing type (apt. vs. house), or otherwise
+- whether mailing addresses (home vs. P.O. Box) are necessary fields in job applications,
+  and/or if address info (including zip code) could be used for discrimination based on
+  location, housing type (apt. vs. house), or otherwise
 - implementing Employee Polygraph Protection Act at the state level:
   https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf
   (This one became LSR 24-2330 for 2024, "relative to prohibiting employers from
@@ -49,6 +51,7 @@ Other stuff to consider including:
   decision by the Eighth Circuit Court of Appeals in 2018 that superseded Toering;
   the OLS researchers said that this one makes further legislation unnecessary, but
   I'm not so sure myself; might want to investigate further...
+- Inclusion of salary information in jop postings
 
 Research request status as of December 4, 2023: filed, primary one is still in progress
 
@@ -84,4 +87,4 @@ Notes on polygraph portion specifically:
 - Federal Polygraph Protection Act (see above)
 - Vermont legislation that OLS found
 - Amendment
-
+- https://antipolygraph.org/
