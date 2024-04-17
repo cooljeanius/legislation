@@ -56,3 +56,5 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     STANAG 2335?
 27. Municipal mascots, like they have in Japan:
     https://en.wikipedia.org/wiki/Yuru-chara
+28. Something about private equity; term to look for is "leveraged buyout"
+    apparently...
