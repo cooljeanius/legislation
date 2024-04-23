@@ -7,3 +7,4 @@
 - https://www.axios.com/local/seattle/2024/02/09/washington-state-police-lying-ruses-law
 - https://www.nhregister.com/news/article/lamont-bill-criminalize-state-police-fake-tickets-18656438.php
 - https://app.mypocketlawyer.ai/results
+- https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes
