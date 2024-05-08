@@ -1,0 +1,6 @@
+0. Relative to the citizenship test
+1. In cases where the State of New Hampshire is required by law to administer the
+   USCIS citizenship test, and the question about the causes of the US Civil War
+   is given, the assessing official shall only accept answers that include and
+   priotize "slavery" as correct.
+[TODO: cross-reference against the RSAs that require the test]
