@@ -8,3 +8,4 @@
 - https://www.nhregister.com/news/article/lamont-bill-criminalize-state-police-fake-tickets-18656438.php
 - https://app.mypocketlawyer.ai/results
 - https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes
+- https://www.phoronix.com/news/Germany-STF-For-FFmpeg
