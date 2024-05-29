@@ -12,3 +12,7 @@ The legislation shall be stored in this VCS in an open text-based format that
 allows for easy diffing, grepping, and manipulation by other similar software tools
 designed to operate on text-based formats. Amendments to legislation shall be
 handled by tools provided by the VCS.
+3. Something about GNU ethical repository criteria:
+https://www.gnu.org/software/repo-criteria
+ 3a. Require assessment of service used to host repo, and publication of
+ assessment if one doesn't already exist
