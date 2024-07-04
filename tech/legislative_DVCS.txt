@@ -16,3 +16,7 @@ handled by tools provided by the VCS.
 https://www.gnu.org/software/repo-criteria
  3a. Require assessment of service used to host repo, and publication of
  assessment if one doesn't already exist
+
+Further links:
+- https://github.com/nysenate/OpenLegislation
+- https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/
