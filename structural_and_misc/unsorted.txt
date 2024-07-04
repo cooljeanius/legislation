@@ -35,7 +35,8 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     that was recently introduced in MN: https://www.revisor.mn.gov/bills/text.php?number=HF3275&version=latest&session=93&session_number=0&session_year=2023
     (Ellen has contacts in other states) (filed LSR 24-2335, "reaffirming support
     for the child labor amendment to the United States Constitution.", which then
-    became HR24)
+    became HR24, and then passed the House... I'm not sure what happened to it
+    after that, though...)
 21. Check if House Rules protect testimony before House Committee Hearings from
     being used against people in court (check with Amanda Grady Sexton of NHCADSV?)
     Became LSR 24-2324, "relative to establishing immunity for certain testimony
@@ -48,7 +49,8 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     sidewalk along class I-IV highways.", which then became HB1196)
     TODO: follow up with DOT guy about this
 23. (autism registry one moved to tech/Autism_Registry.html.diff) (filed LSR
-    24-2428, "relative to the autism registry.", which then became HB1615)
+    24-2428, "relative to the autism registry.", which then became HB1615,
+    and was later signed into law)
 24. dog/cat cafés... check first to see what (if anything) is preventing them?
 25. libraries accepting cat pics in lieu of fines: https://www.mentalfloss.com/posts/cat-photos-replace-library-fines
 26. Study committee re: clothing size standardization, and participation in
