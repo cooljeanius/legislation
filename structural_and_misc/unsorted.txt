@@ -15,24 +15,29 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
 10. Public transit bus stops incentives
 11. Incentives for the building of sidewalks
 12. Public electrical outlets
-13. Stuff inspired by Michelle Wu's digital equity plan: https://twitter.com/schock/status/1456066457645862912
+13. Stuff inspired by Michelle Wu's digital equity plan:
+    https://twitter.com/schock/status/1456066457645862912
 14. Find out that NH Supreme Court ruling about dumpster diving and see if it needs
     to be overruled (Jonah interested)
-15. Derry municipal reorganization: https://twitter.com/psephographic/status/1590768622703902720
+15. Derry municipal reorganization:
+    https://twitter.com/psephographic/status/1590768622703902720
 16. Official IPA pronunciation for "New Hampshire" (/nuːˈhæmpʃər/) and "Concord"
     (/ˈkɒŋkərd/) (filed LSR 24-2453 for 2024, which then became HB1095)
 17. Seniority pay for mental health professionals, to reduce turnover
-18. Something about rent payments vs. credit scores: https://twitter.com/ninaturner/status/1600899030623879169
+18. Something about rent payments vs. credit scores:
+    https://twitter.com/ninaturner/status/1600899030623879169
     (maybe fold in with the "right to inspect" one in
     housing/rent_setting_software.txt?)
-19. State version of the federal "Linemen Legacy Act": https://www.congress.gov/bill/117th-congress/senate-bill/398/all-info?r=3&s=1
+19. State version of the federal "Linemen Legacy Act":
+    https://www.congress.gov/bill/117th-congress/senate-bill/398/all-info?r=3&s=1
     (except more inclusive: also incorporating active-duty power systems
     personnel on grid and power distribution works, e.g., for substations and
     generating plants) (filed LSR 24-2333, "relative to establishing an electrical
     line technician recognition day," but then withdrew it because that wasn't
     actually what I wanted)
 20. Resolution reaffirming NH's support for the Child Labor Amendment; see the one
-    that was recently introduced in MN: https://www.revisor.mn.gov/bills/text.php?number=HF3275&version=latest&session=93&session_number=0&session_year=2023
+    that was recently introduced in MN:
+    https://www.revisor.mn.gov/bills/text.php?number=HF3275&version=latest&session=93&session_number=0&session_year=2023
     (Ellen has contacts in other states) (filed LSR 24-2335, "reaffirming support
     for the child labor amendment to the United States Constitution.", which then
     became HR24, and then passed the House... I'm not sure what happened to it
@@ -52,7 +57,8 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     24-2428, "relative to the autism registry.", which then became HB1615,
     and was later signed into law)
 24. dog/cat cafés... check first to see what (if anything) is preventing them?
-25. libraries accepting cat pics in lieu of fines: https://www.mentalfloss.com/posts/cat-photos-replace-library-fines
+25. libraries accepting cat pics in lieu of fines:
+    https://www.mentalfloss.com/posts/cat-photos-replace-library-fines
 26. Study committee re: clothing size standardization, and participation in
     standards bodies in general... do NH National Guard uniforms comply with
     STANAG 2335?
