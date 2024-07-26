@@ -53,6 +53,9 @@ Other stuff to consider including:
   I'm not so sure myself; might want to investigate further...
 - Inclusion of salary information in job postings (or posted elsewhere; see CA law)
 - https://www.forbes.com/sites/karadennison/2023/11/27/how-ghost-job-postings-are-creating-a-false-sense-of-hope/
+- Expand portion of RSA 638:6-I(e) with language concerning any person who
+  "makes a false or misleading statement in any advertisement addressed to the public..."
+  to extend to job postings
 
 Research request status as of December 4, 2023: filed, primary one is still in progress
 
