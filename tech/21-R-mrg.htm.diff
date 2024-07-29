@@ -1,0 +1,43 @@
+diff --git a/tech/21-R-mrg.htm b/tech/21-R-mrg.htm
+index fe89e76..8d89992 100644
+--- a/tech/21-R-mrg.htm
++++ b/tech/21-R-mrg.htm
+@@ -252,9 +252,9 @@ The commissioner shall use a system of agency satisfaction metrics, a measuremen
+ &nbsp;&nbsp;&nbsp;<b> 21-R:8-a Purchasing Policy. &#150;</b>
+ <codesect>
+ <br>
+-I. The department shall, in collaboration with the department of administrative services, establish standards for computer hardware, software, related licenses, media, documentation, support and maintenance services, and other related services. Agencies may purchase directly using contracts established by administrative services without approval from the chief information officer, or designee, subject to any limitations established by the chief information officer.
++I. The department shall, in collaboration with the department of administrative services, establish standards for computer hardware, software, related licenses, media, documentation, support and maintenance services, and other related services, in accordance with the definitions specified in RSA 21-R:10. Agencies may purchase directly using contracts established by administrative services without approval from the chief information officer, or designee, subject to any limitations established by the chief information officer.
+ <br>
+-II. Prior to an agency's issuance of a solicitation for the purchase of computer hardware, software, related licenses, media, documentation, support and maintenance services, and other related services including a request for proposal, request for purchase, or other procurement documentation, the agency shall consult with and seek approval from the department of information technology.
++II. Prior to an agency's issuance of a solicitation for the purchase of computer hardware, software, related licenses, media, documentation, support and maintenance services, and other related services including a request for proposal, request for purchase, or other procurement documentation, which is not already under the other provisions of this section, the agency shall consult with and seek approval from the department of information technology.
+ <br>
+ III. The department of information technology, in consultation with the information technology council, shall annually review and set dollar, or other, limits for purchases and contracts that require approval from the chief information officer before proceeding.
+ <br>
+@@ -287,7 +287,7 @@ There is hereby established in the office of the state treasurer a statewide tel
+ <br>
+ In this subdivision:
+ <br>
+-I. "Open data format" means the organization of digital data within a computer file in a manner that makes it accessible for all to implement and use in perpetuity, with no royalty or fee. The published specification for the open data format is usually maintained by a standards organization.
++I. "Open data format" means the organization of digital data within a computer file in a manner that makes it accessible for all to implement and use in perpetuity, without payment of royalty or fee for the implementation of the format. In order for a data format to be considered an open data format, the published specification for it must be maintained by a multi-member standards organization, and must itself be published in an open data format.
+ <br>
+ I-a. "Open source software" means software that guarantees the user:
+ <br>
+@@ -324,6 +324,8 @@ II. "Open standards" means specifications for the encoding and transfer of compu
+ III. "Proprietary software" means software that does not fulfill all of the guarantees provided by open source software.
+ <br>
+ IV. "State agency" means any department, commission, board, institution, bureau, office, or other entity, by whatever name called, established in the state constitution, statutes, or executive orders. The judicial branch and the legislative branch of state government are explicitly exempted from this definition.
++<br>
++V. The purpose of defining these terms is to promote the use of open standards, software, and data formats, in order to make the operation of government more participatory and transparent, in accordance with Article 8 of the New Hampshire state bill of rights, and to provide the state with resilience against external disruptions of software supply chains.
+ </codesect>
+ <sourcenote>
+ <p><b>Source.</b> 2012, 5:2, eff. May 11, 2012. 2013, 118:1, 7, eff. June 25, 2013.
+@@ -411,7 +413,7 @@ III. In developing the open data standards policy, the commissioner shall solici
+ &nbsp;&nbsp;&nbsp;<b> 21-R:15 Use of Kaspersky Software Prohibited. &#150;</b>
+ <codesect>
+ <br>
+-I. No state agency shall use any software platform developed, in whole or in part, by Kaspersky Lab or any entity of which Kaspersky Lab has a majority ownership.
++I. No state agency shall use any software platform developed, in whole or in part, by Kaspersky Lab or any entity of which Kaspersky Lab has a majority ownership. <!-- TODO: research request about Kaspersky -->
+ <br>
+ II. In this section, "state agency" means any department, commission, board, institution, bureau, office, or other entity, by whatever name called, including the legislative and judicial branches of state government, established in the state constitution, statutes, session laws or executive orders.
+ </codesect>
