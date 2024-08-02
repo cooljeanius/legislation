@@ -1,5 +1,5 @@
 diff --git a/tech/21-R-mrg.htm b/tech/21-R-mrg.htm
-index fe89e76..8d89992 100644
+index fe89e76..753e03f 100644
 --- a/tech/21-R-mrg.htm
 +++ b/tech/21-R-mrg.htm
 @@ -252,9 +252,9 @@ The commissioner shall use a system of agency satisfaction metrics, a measuremen
@@ -32,6 +32,24 @@ index fe89e76..8d89992 100644
  </codesect>
  <sourcenote>
  <p><b>Source.</b> 2012, 5:2, eff. May 11, 2012. 2013, 118:1, 7, eff. June 25, 2013.
+@@ -335,7 +337,7 @@ IV. "State agency" means any department, commission, board, institution, bureau,
+ <br>
+ I. For all technology acquisitions, each state agency, in consultation with the department of information technology, shall:
+ <br>
+-(a) Consider whether technology solutions containing proprietary or open source software offer the most cost effective solution for the agency, based on consideration of all associated acquisition, support, maintenance, and training costs;
++(a) Consider whether technology solutions containing proprietary or open source software offer the most cost effective solution for the agency, based on consideration of all associated acquisition, support, maintenance, training, and societal costs;
+ <br>
+ (b) Except as provided in subparagraphs (d) and (e), acquire technology solutions primarily on a value-for-money basis, based on consideration of the cost factors as described in subparagraph (a);
+ <br>
+@@ -366,7 +368,7 @@ I. The commissioner shall assist state agencies in the purchase or creation of t
+ <br>
+ (a) Ensure that any new data standards which the state of New Hampshire defines and to which it owns all rights are open standards compliant.
+ <br>
+-(b) Use open standards unless specific project requirements, or excessive cost, preclude use of an open data format.
++(b) Use open standards unless specific justified project requirements, or costs that remain excessive even after negotiations, preclude use of an open data format.
+ <br>
+ (c) Reexamine existing data stored in a restricted format to which the state of New Hampshire does not own the rights during re-procurement cycles to determine if the format has become open and, if not, whether an appropriate open standard exists.
+ <br>
 @@ -411,7 +413,7 @@ III. In developing the open data standards policy, the commissioner shall solici
  &nbsp;&nbsp;&nbsp;<b> 21-R:15 Use of Kaspersky Software Prohibited. &#150;</b>
  <codesect>
