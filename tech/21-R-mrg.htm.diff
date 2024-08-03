@@ -1,5 +1,5 @@
 diff --git a/tech/21-R-mrg.htm b/tech/21-R-mrg.htm
-index fe89e76..18b99e5 100644
+index fe89e76..c0e3fe9 100644
 --- a/tech/21-R-mrg.htm
 +++ b/tech/21-R-mrg.htm
 @@ -252,9 +252,9 @@ The commissioner shall use a system of agency satisfaction metrics, a measuremen
@@ -14,7 +14,7 @@ index fe89e76..18b99e5 100644
  <br>
  III. The department of information technology, in consultation with the information technology council, shall annually review and set dollar, or other, limits for purchases and contracts that require approval from the chief information officer before proceeding.
  <br>
-@@ -287,9 +287,9 @@ There is hereby established in the office of the state treasurer a statewide tel
+@@ -287,11 +287,11 @@ There is hereby established in the office of the state treasurer a statewide tel
  <br>
  In this subdivision:
  <br>
@@ -24,7 +24,10 @@ index fe89e76..18b99e5 100644
 -I-a. "Open source software" means software that guarantees the user:
 +I-a. "Open source software" means software that guarantees to any and all users, without discrimination:
  <br>
- (a) Unrestricted use of the software for any purpose;
+-(a) Unrestricted use of the software for any purpose;
++(a) Unrestricted use of the software for any field of endeavor;
+ <br>
+ (b) Unrestricted access to the respective source code;
  <br>
 @@ -324,6 +324,8 @@ II. "Open standards" means specifications for the encoding and transfer of compu
  III. "Proprietary software" means software that does not fulfill all of the guarantees provided by open source software.
