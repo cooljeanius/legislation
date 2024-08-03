@@ -8,3 +8,4 @@
 - https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes
 - https://www.phoronix.com/news/Germany-STF-For-FFmpeg
 - https://calmatters.org/economy/technology/2024/05/california-ai-training-disclosures/
+- https://g0v.us/

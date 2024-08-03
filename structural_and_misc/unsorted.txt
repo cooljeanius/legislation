@@ -67,3 +67,5 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
 28. Something about private equity; term to look for is "leveraged buyout"
     apparently...
 29. Electroshock therapy: check informed consent requirement, and age limits?
+30. To put somewhere in the tech subdir at some point: WA HB2360:
+     https://legiscan.com/WA/bill/HB2360/2023
