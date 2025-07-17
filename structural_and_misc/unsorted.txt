@@ -69,3 +69,7 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
 29. Electroshock therapy: check informed consent requirement, and age limits?
 30. To put somewhere in the tech subdir (or maybe the education one?) at some
     point: WA HB2360: https://legiscan.com/WA/bill/HB2360/2023
+31. Freedom of Panorama (FOP) for NH Historical Markers:
+    https://commons.wikimedia.org/wiki/Commons:Deletion_requests/Files_in_Category:Historical_markers_in_New_Hampshire
+    (alternate idea: require that if the state is going to assert copyright
+     over its historical markers, it's gotta be under a copyleft license?)
