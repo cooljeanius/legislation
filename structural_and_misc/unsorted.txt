@@ -1,9 +1,12 @@
 This file is for legislation ideas that I haven't chosen another folder for yet.
 
 0. (N/A since this isn't an actual bill itself)
-1. DNS data protection: https://cooljeanius.github.io/my_tweetback_archive/1498331483576090627
-2. "opt out of NFTs" bill: https://cooljeanius.github.io/my_tweetback_archive/1481000598388494338
-3. grocery store food donation bill: https://cooljeanius.github.io/my_tweetback_archive/1478797876293771268
+1. DNS data protection:
+   https://cooljeanius.github.io/my_tweetback_archive/1498331483576090627
+2. "opt out of NFTs" bill:
+   https://cooljeanius.github.io/my_tweetback_archive/1481000598388494338
+3. grocery store food donation bill:
+   https://cooljeanius.github.io/my_tweetback_archive/1478797876293771268
 4. housing speculation: https://xcancel.com/pchowder/status/1516018096930230277
 5. Rich Felker's tech regs idea for requiring security updates with no new features
 6. Ban on lawn mandates: https://xcancel.com/snowofthefuture/status/1531106462486888449
@@ -20,7 +23,7 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
 14. Find out that NH Supreme Court ruling about dumpster diving and see if it needs
     to be overruled (Jonah interested)
 15. Derry municipal reorganization:
-    https://xcancel.com/psephographic/status/1590768622703902720
+    https://web.archive.org/web/20221116222638/https://twitter.com/psephographic/status/1590768622703902720
 16. Official IPA pronunciation for "New Hampshire" (/nuːˈhæmpʃər/) and "Concord"
     (/ˈkɒŋkərd/) (filed LSR 24-2453 for 2024, which then became HB1095)
 17. Seniority pay for mental health professionals, to reduce turnover
