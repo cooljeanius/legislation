@@ -7,11 +7,14 @@
    engaged in price-fixing, the tenant shall win their case, and shall not be
    evicted.
 
-(Ellen interested)
-
 Ref: https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent
 
 This became LSR 24-2328, "prohibiting termination of a tenancy based on a tenant's
 failure to pay rent that was increased by certain price fixing programs."
-It then became HB1368: https://gencourt.state.nh.us/lsr_search/billText.aspx?id=1415&type=4
-Charlotte DiLorenzo mentioned this company coming out against HB1368: https://www.mrisoftware.com/
+It then became HB1368 in the 2023-2024 term:
+https://web.archive.org/web/20240609175212/https://www.gencourt.state.nh.us/lsr_search/billText.aspx?id=1415&type=4
+Charlotte DiLorenzo mentioned this company coming out against HB1368:
+https://www.mrisoftware.com/
+
+In the 2025-2026 term, Ellen Read filed HB1612, which is similar:
+https://legiscan.com/NH/text/HB1612/id/3290325
