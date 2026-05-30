@@ -44,7 +44,9 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     (Ellen has contacts in other states) (filed LSR 24-2335, "reaffirming support
     for the child labor amendment to the United States Constitution.", which then
     became HR24, and then passed the House... I'm not sure what happened to it
-    after that, though...)
+    after that, though; in retrospect I should have added a clause to it to require
+    it to be transmitted to the legislatures of neighboring states that haven't
+    ratified it yet, i.e. MA, VT, RI, CT, and NY)
 21. Check if House Rules protect testimony before House Committee Hearings from
     being used against people in court (check with Amanda Grady Sexton of NHCADSV?)
     Became LSR 24-2324, "relative to establishing immunity for certain testimony
@@ -76,13 +78,15 @@ This file is for legislation ideas that I haven't chosen another folder for yet.
     https://commons.wikimedia.org/wiki/Commons:Deletion_requests/Files_in_Category:Historical_markers_in_New_Hampshire
     (alternate idea: require that if the state is going to assert copyright
      over its historical markers, it's gotta be under a copyleft license?)
-32. Proportionate fines: have vehicle price be printed on registration
-    (if it isn't already), and then have any crimes involving vehicles, for
-    which the punishment is a fine, have a percentage of the involved vehicle's
-    price be added to the fine
+32. Proportionate fines: [moved to proportionate_fines.txt]
 33. Have "Pay As You Throw" municipal waste collection systems (like Concord's)
     have their payments assessed as a percentage of property taxes, rather than
     a flat fee
 34. Replace municipal property tax exemption for the elderly with a municipal
     property tax exemption for whichever age cohort owns the least property
     wealth within a community
+35. More on sidewalks: allow the ignoring of property boundaries if building a
+    sidewalk that would connect with an existing sidewalk on the other side of
+    a property line (would apply to both public and private entities)
+36. Granite: submit NH granite for use as curling stones
+37. More granite: encourage greater use of NH granite for construction purposes

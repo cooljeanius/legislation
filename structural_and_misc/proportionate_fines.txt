@@ -1,0 +1,8 @@
+0. Relative to proportionate fines
+1. [TODO: check current vehicle registration law]
+2. If it isn't already, require latest sale value vehicle was purchased for
+   to be printed on vehicle registration
+3. Any fine assessed for an offense involving a motor vehicle shall have
+   a percentage of that vehicle's value added to the fine [TODO: decide percentage]
+4. [TODO: do likewise for other fines that don't involve vehicles]
+   (how to calculate, though?)

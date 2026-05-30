@@ -1,0 +1,8 @@
+0. Relative to perambulation of municipality boundaries
+1. [TODO: check current perambulation law]
+2. If the required officials are unable to perform their required perambulation,
+   any State Representative representing that municipality may perform the
+   perambulation instead.
+3. No person performing the required perambulation shall be found guilty of
+   trespassing for crossing any private property lines that are required to
+   cross in order to complete the perambulation.
